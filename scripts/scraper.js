@@ -18,7 +18,7 @@ var SOURCES = [
   { id: 'consultations', url: 'https://www.pch.dz/consultations',  label: 'Consultations'    },
 ];
 
-var MAX_PAGES = 5;
+var MAX_PAGES = 10;
 
 // ── HTTP GET ─────────────────────────────────────────────────────
 function get(url, timeout) {
@@ -74,8 +74,17 @@ function parseItems(html, sourceId, seen) {
 }
 
 function stratLire(html, sourceId, seen) {
-  var items=[], lower=html.toLowerCase(), kw='lire la suite', pos=0, prev=0, lim=0;
-  while(lim++<100){var ki=lower.indexOf(kw,pos);if(ki<0)break;var it=fromBlock(html.slice(Math.max(prev,ki-2500),ki+50),sourceId,seen);if(it)items.push(it);prev=ki+50;pos=ki+kw.length;}
+  var items=[], lower=html.toLowerCase(), kw='lire la suite';
+  var positions=[], pos=0;
+  while(true){var ki=lower.indexOf(kw,pos);if(ki<0)break;positions.push(ki);pos=ki+kw.length;}
+  if(!positions.length) return items;
+  for(var i=0;i<positions.length;i++){
+    var end=positions[i]+50;
+    var start=i>0?positions[i-1]+kw.length:Math.max(0,positions[i]-6000);
+    var block=html.slice(start,end);
+    var it=fromBlock(block,sourceId,seen);
+    if(it)items.push(it);
+  }
   return items;
 }
 function stratArticle(html, sourceId, seen) {
@@ -85,12 +94,12 @@ function stratArticle(html, sourceId, seen) {
 }
 function stratViews(html, sourceId, seen) {
   var items=[], parts=html.split(/class="[^"]*views-row/gi);
-  for(var i=1;i<parts.length;i++){var it=fromBlock(parts[i].slice(0,2500),sourceId,seen);if(it)items.push(it);}
+  for(var i=1;i<parts.length;i++){var it=fromBlock(parts[i].slice(0,5000),sourceId,seen);if(it)items.push(it);}
   return items;
 }
 function stratH2(html, sourceId, seen) {
   var items=[], re=/<h[23]\b/gi, m;
-  while((m=re.exec(html))!==null){var it=fromBlock(html.slice(m.index,m.index+600),sourceId,seen);if(it)items.push(it);}
+  while((m=re.exec(html))!==null){var it=fromBlock(html.slice(m.index,m.index+1200),sourceId,seen);if(it)items.push(it);}
   return items;
 }
 function stratLinks(html, sourceId, seen) {
@@ -102,9 +111,23 @@ function stratLinks(html, sourceId, seen) {
 function fromBlock(block, sourceId, seen) {
   var best=null;
   var h2pos=block.search(/<h[23]\b/i);
-  if(h2pos>=0){var am=/<a\s[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/i.exec(block.slice(h2pos,h2pos+700));if(am){var t=strip(am[2]).toUpperCase();if(t.length>=8&&isTender(t))best={href:am[1].trim(),title:t};}}
-  var lr=/<a\s[^>]*href="([^"#?]+)"[^>]*>([\s\S]{8,}?)<\/a>/gi,lm;
-  while((lm=lr.exec(block))!==null){var lt=strip(lm[2]).toUpperCase();if(!isTender(lt)||lt==='LIRE LA SUITE'||lt.length<8)continue;if(!best||lt.length>best.title.length)best={href:lm[1].trim(),title:lt};}
+  if(h2pos>=0){
+    var h2zone=block.slice(h2pos, h2pos+1200);
+    var linkRe2=/<a\s[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi, am;
+    while((am=linkRe2.exec(h2zone))!==null){
+      var t2=strip(am[2]).toUpperCase();
+      if(t2.length>=8&&isTender(t2)){
+        if(!best||t2.length>best.title.length)
+          best={href:am[1].trim(),title:t2};
+      }
+    }
+  }
+  var lr=/<a\s[^>]*href="([^"#?]+)"[^>]*>([\s\S]*?)<\/a>/gi,lm;
+  while((lm=lr.exec(block))!==null){
+    var lt=strip(lm[2]).toUpperCase();
+    if(!isTender(lt)||lt==='LIRE LA SUITE'||lt.length<8)continue;
+    if(!best||lt.length>best.title.length)best={href:lm[1].trim(),title:lt};
+  }
   if(!best)return null;
   var slug=sOf(best.href);if(seen[slug])return null;seen[slug]=true;
   var endH2=block.search(/<\/h[23]>/i);
@@ -133,7 +156,6 @@ async function main() {
   console.log('PCH Watch Scraper — ' + new Date().toISOString());
   var result = { scrapedAt: new Date().toISOString(), sources: {}, allItems: [] };
 
-  // Load existing data to merge (preserve history)
   var existing = { sources: {}, allItems: [] };
   try {
     var raw = fs.readFileSync(path.join(__dirname, '..', 'data.json'), 'utf8');
@@ -165,7 +187,7 @@ async function main() {
 
         if (items.length === 0) break;
         for (var k = 0; k < items.length; k++) srcItems.push(items[k]);
-        if (items.length < 4) break;
+        if (items.length < 2 && page > 0) break;
 
         await sleep(500);
       } catch(e) {
@@ -178,14 +200,11 @@ async function main() {
     console.log('Total for', src.id, ':', srcItems.length, 'items');
   }
 
-  // Merge: combine fresh items with existing, deduplicate, sort by date
   var allNew = [];
   Object.keys(result.sources).forEach(function(sid) {
     result.sources[sid].forEach(function(item) { allNew.push(item); });
   });
 
-  // Merge with existing (keep history, add new)
-  // Key = sourceId|id|title-hash to avoid missing items with same URL slug
   var seenKeys = {};
   var merged = [];
   allNew.forEach(function(i) {
@@ -204,11 +223,10 @@ async function main() {
     return db - da;
   });
 
-  result.allItems = merged.slice(0, 1000); // Keep max 1000 items
+  result.allItems = merged.slice(0, 1000);
   result.totalCount = merged.length;
   result.freshCount = allNew.length;
 
-  // Write data.json
   var outputPath = path.join(__dirname, '..', 'data.json');
   fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
   console.log('\n✅ data.json written —', result.allItems.length, 'items total,', allNew.length, 'fresh');

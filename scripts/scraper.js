@@ -63,6 +63,36 @@ function get(url, timeout) {
   });
 }
 
+// ── Fetch via proxy (WAF bypass) ──────────────────────────────────
+// pch.dz F5 BIG-IP WAF blocks GitHub/AWS IPs directly.
+// Route through public proxy pools to bypass.
+async function fetchPage(targetUrl) {
+  var enc = encodeURIComponent(targetUrl);
+  var proxies = [
+    { url: 'https://api.allorigins.win/get?url=' + enc, type: 'allorigins' },
+    { url: 'https://api.codetabs.com/v1/proxy?quest=' + enc, type: 'raw' },
+    { url: targetUrl, type: 'raw' },
+  ];
+  for (var i = 0; i < proxies.length; i++) {
+    try {
+      var raw = await get(proxies[i].url, 25000);
+      var html = raw;
+      if (proxies[i].type === 'allorigins') {
+        try { html = JSON.parse(raw).contents || ''; } catch(e) { html = raw; }
+      }
+      if (html.indexOf('Request Rejected') >= 0 || html.length < 500) {
+        console.log('    proxy', proxies[i].type, '→ rejected/empty');
+        continue;
+      }
+      console.log('    proxy', proxies[i].type, '→ OK (' + html.length + ' chars)');
+      return html;
+    } catch(e) {
+      console.log('    proxy', proxies[i].type, '→ error:', e.message.slice(0, 80));
+    }
+  }
+  throw new Error('All proxies failed for: ' + targetUrl);
+}
+
 // ── Parser ────────────────────────────────────────────────────────
 function parseItems(html, sourceId, seen) {
   var items;
@@ -75,11 +105,13 @@ function parseItems(html, sourceId, seen) {
 
 function stratLire(html, sourceId, seen) {
   var items=[], lower=html.toLowerCase(), kw='lire la suite';
+  // Collect all positions of "lire la suite"
   var positions=[], pos=0;
   while(true){var ki=lower.indexOf(kw,pos);if(ki<0)break;positions.push(ki);pos=ki+kw.length;}
   if(!positions.length) return items;
+  // For each "lire la suite", the article block is between the PREVIOUS "lire la suite" and this one
   for(var i=0;i<positions.length;i++){
-    var end=positions[i]+50;
+    var end=positions[i]+50; // include a bit after
     var start=i>0?positions[i-1]+kw.length:Math.max(0,positions[i]-6000);
     var block=html.slice(start,end);
     var it=fromBlock(block,sourceId,seen);
@@ -110,9 +142,10 @@ function stratLinks(html, sourceId, seen) {
 
 function fromBlock(block, sourceId, seen) {
   var best=null;
+  // Scan the h2/h3 zone — pick the LONGEST tender link (not first, avoids short icon links)
   var h2pos=block.search(/<h[23]\b/i);
   if(h2pos>=0){
-    var h2zone=block.slice(h2pos, h2pos+1200);
+    var h2zone=block.slice(h2pos, h2pos+1200); // wider window
     var linkRe2=/<a\s[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi, am;
     while((am=linkRe2.exec(h2zone))!==null){
       var t2=strip(am[2]).toUpperCase();
@@ -122,6 +155,7 @@ function fromBlock(block, sourceId, seen) {
       }
     }
   }
+  // Also scan full block for longest tender link
   var lr=/<a\s[^>]*href="([^"#?]+)"[^>]*>([\s\S]*?)<\/a>/gi,lm;
   while((lm=lr.exec(block))!==null){
     var lt=strip(lm[2]).toUpperCase();
@@ -156,6 +190,7 @@ async function main() {
   console.log('PCH Watch Scraper — ' + new Date().toISOString());
   var result = { scrapedAt: new Date().toISOString(), sources: {}, allItems: [] };
 
+  // Load existing data to merge (preserve history)
   var existing = { sources: {}, allItems: [] };
   try {
     var raw = fs.readFileSync(path.join(__dirname, '..', 'data.json'), 'utf8');
@@ -175,10 +210,10 @@ async function main() {
       var url = page === 0 ? src.url : src.url + '?page=' + page;
       try {
         console.log('  Page', page, ':', url);
-        var html = await get(url, 30000);
+        var html = await fetchPage(url);
 
-        if (html.indexOf('Request Rejected') >= 0) {
-          console.log('  ❌ WAF block on page', page);
+        if (html.length < 500) {
+          console.log('  ⚠️  Empty response on page', page);
           break;
         }
 
@@ -187,6 +222,7 @@ async function main() {
 
         if (items.length === 0) break;
         for (var k = 0; k < items.length; k++) srcItems.push(items[k]);
+        // Only stop if truly empty — don't stop on small pages (PCH sometimes has < 4 recent items)
         if (items.length < 2 && page > 0) break;
 
         await sleep(500);
@@ -200,11 +236,14 @@ async function main() {
     console.log('Total for', src.id, ':', srcItems.length, 'items');
   }
 
+  // Merge: combine fresh items with existing, deduplicate, sort by date
   var allNew = [];
   Object.keys(result.sources).forEach(function(sid) {
     result.sources[sid].forEach(function(item) { allNew.push(item); });
   });
 
+  // Merge with existing (keep history, add new)
+  // Key = sourceId|id|title-hash to avoid missing items with same URL slug
   var seenKeys = {};
   var merged = [];
   allNew.forEach(function(i) {
@@ -223,10 +262,11 @@ async function main() {
     return db - da;
   });
 
-  result.allItems = merged.slice(0, 1000);
+  result.allItems = merged.slice(0, 1000); // Keep max 1000 items
   result.totalCount = merged.length;
   result.freshCount = allNew.length;
 
+  // Write data.json
   var outputPath = path.join(__dirname, '..', 'data.json');
   fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
   console.log('\n✅ data.json written —', result.allItems.length, 'items total,', allNew.length, 'fresh');

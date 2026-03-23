@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-03-23T08:38:22.070Z",
-  "freshCount": 0,
+  "scrapedAt": "2026-03-23T15:41:08.633Z",
+  "freshCount": 164,
   "totalCount": 187,
   "allItems": [
     {
@@ -1579,15 +1579,6 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Avis%20d%27Appel%20d%27Offres%20National%20Ouvert%20N%C2%B016-2024.pdf",
-      "title": "AVIS D&#039;APPEL D&#039;OFFRES NATIONAL OUVERT N°16-2024.PDF",
-      "date": "2024-09-03",
-      "reference": "N°16-2024",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27Appel%20d%27Offres%20National%20Ouvert%20N%C2%B016-2024.pdf",
-      "sourceId": "appel-doffres"
-    },
-    {
       "id": "Avis%20d%27infructuosit%C3%A9%20AONO%20N%C2%B003-2024.pdf",
       "title": "AVIS D&#039;INFRUCTUOSITÉ AONO N°03-2024.PDF",
       "date": "2024-09-03",
@@ -1595,6 +1586,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20AONO%20N%C2%B003-2024.pdf",
       "sourceId": "infructuosite"
+    },
+    {
+      "id": "Avis%20d%27Appel%20d%27Offres%20National%20Ouvert%20N%C2%B016-2024.pdf",
+      "title": "AVIS D&#039;APPEL D&#039;OFFRES NATIONAL OUVERT N°16-2024.PDF",
+      "date": "2024-09-03",
+      "reference": "N°16-2024",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27Appel%20d%27Offres%20National%20Ouvert%20N%C2%B016-2024.pdf",
+      "sourceId": "appel-doffres"
     },
     {
       "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B0114-MED-2024%20.pdf",

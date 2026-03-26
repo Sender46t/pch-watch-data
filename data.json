@@ -1,8 +1,71 @@
 {
-  "scrapedAt": "2026-03-26T08:36:18.753Z",
-  "freshCount": 0,
-  "totalCount": 187,
+  "scrapedAt": "2026-03-26T15:58:59.962Z",
+  "freshCount": 182,
+  "totalCount": 194,
   "allItems": [
+    {
+      "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2004-DM-2026%20-%20DRAIN%20DE%20KHER.Pdf",
+      "title": "AVIS D'INFRUCTUOSITE CONSULTATION N 04-DM-2026 - DRAIN DE KHER",
+      "date": "2026-03-26",
+      "reference": null,
+      "produit": "DRAIN DE KHER",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2004-DM-2026%20-%20DRAIN%20DE%20KHER.Pdf",
+      "sourceId": "infructuosite"
+    },
+    {
+      "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2003-DM-2026-%20SONDE%20PROSTATIQUE%20A-B%203VOIES.Pdf",
+      "title": "AVIS D'INFRUCTUOSITE CONSULTATION N 03-DM-2026- S",
+      "date": "2026-03-26",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2003-DM-2026-%20SONDE%20PROSTATIQUE%20A-B%203VOIES.Pdf",
+      "sourceId": "infructuosite"
+    },
+    {
+      "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
+      "title": "AVIS D'INFRUCTUOSITE CONSULTATION",
+      "date": "2026-03-26",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20d%E2%80%99attribution%20provisoire%20Consultation%20N%C2%B004-MED2026.pdf",
+      "title": "AVIS D’ATTRIBUTION PROVISOIRE CONSULTATION N°04-MED2026",
+      "date": "2026-03-25",
+      "reference": "N°04-MED2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%E2%80%99attribution%20provisoire%20Consultation%20N%C2%B004-MED2026.pdf",
+      "sourceId": "attribution"
+    },
+    {
+      "id": "Avis%20infructuosit%C3%A9%20%20Consultation%20N%C2%B002-MED-2026.pdf",
+      "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°02-MED-2026",
+      "date": "2026-03-25",
+      "reference": "N°02-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20%20Consultation%20N%C2%B002-MED-2026.pdf",
+      "sourceId": "infructuosite"
+    },
+    {
+      "id": "Avis%20de%20Negociation%20apres%20consulattion.pdf",
+      "title": "AVIS DE NÉGOCIATIONS APRÈS CONSULTATION N°01-2026",
+      "date": "2026-03-25",
+      "reference": "N°01-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Negociation%20apres%20consulattion.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION N° 06-MED-2026",
+      "date": "2026-03-25",
+      "reference": "N°06-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20de%20consultation%20Consultation%20N%C2%B0%2007-MED-2026.pdf",
       "title": "AVIS DE CONSULTATION CONSULTATION N° 07-MED-2026",
@@ -1579,15 +1642,6 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Avis%20d%27infructuosit%C3%A9%20AONO%20N%C2%B003-2024.pdf",
-      "title": "AVIS D&#039;INFRUCTUOSITÉ AONO N°03-2024.PDF",
-      "date": "2024-09-03",
-      "reference": "N°N",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20AONO%20N%C2%B003-2024.pdf",
-      "sourceId": "infructuosite"
-    },
-    {
       "id": "Avis%20d%27Appel%20d%27Offres%20National%20Ouvert%20N%C2%B016-2024.pdf",
       "title": "AVIS D&#039;APPEL D&#039;OFFRES NATIONAL OUVERT N°16-2024.PDF",
       "date": "2024-09-03",
@@ -1595,6 +1649,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20d%27Appel%20d%27Offres%20National%20Ouvert%20N%C2%B016-2024.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "Avis%20d%27infructuosit%C3%A9%20AONO%20N%C2%B003-2024.pdf",
+      "title": "AVIS D&#039;INFRUCTUOSITÉ AONO N°03-2024.PDF",
+      "date": "2024-09-03",
+      "reference": "N°N",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20AONO%20N%C2%B003-2024.pdf",
+      "sourceId": "infructuosite"
     },
     {
       "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B0114-MED-2024%20.pdf",
@@ -2088,6 +2151,15 @@
     ],
     "attribution": [
       {
+        "id": "Avis%20d%E2%80%99attribution%20provisoire%20Consultation%20N%C2%B004-MED2026.pdf",
+        "title": "AVIS D’ATTRIBUTION PROVISOIRE CONSULTATION N°04-MED2026",
+        "date": "2026-03-25",
+        "reference": "N°04-MED2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%E2%80%99attribution%20provisoire%20Consultation%20N%C2%B004-MED2026.pdf",
+        "sourceId": "attribution"
+      },
+      {
         "id": "Avis%20d%27attribution%20provisoire%20et%20la%20liste%20des%20produits%20infructueux%20de%20l%27AONIO%20N%C2%B018-2025%20PRP.pdf",
         "title": "AVIS D’ATTRIBUTION",
         "date": "2026-02-26",
@@ -2494,6 +2566,33 @@
       }
     ],
     "infructuosite": [
+      {
+        "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2004-DM-2026%20-%20DRAIN%20DE%20KHER.Pdf",
+        "title": "AVIS D'INFRUCTUOSITE CONSULTATION N 04-DM-2026 - DRAIN DE KHER",
+        "date": "2026-03-26",
+        "reference": null,
+        "produit": "DRAIN DE KHER",
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2004-DM-2026%20-%20DRAIN%20DE%20KHER.Pdf",
+        "sourceId": "infructuosite"
+      },
+      {
+        "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2003-DM-2026-%20SONDE%20PROSTATIQUE%20A-B%203VOIES.Pdf",
+        "title": "AVIS D'INFRUCTUOSITE CONSULTATION N 03-DM-2026- S",
+        "date": "2026-03-26",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2003-DM-2026-%20SONDE%20PROSTATIQUE%20A-B%203VOIES.Pdf",
+        "sourceId": "infructuosite"
+      },
+      {
+        "id": "Avis%20infructuosit%C3%A9%20%20Consultation%20N%C2%B002-MED-2026.pdf",
+        "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°02-MED-2026",
+        "date": "2026-03-25",
+        "reference": "N°02-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20%20Consultation%20N%C2%B002-MED-2026.pdf",
+        "sourceId": "infructuosite"
+      },
       {
         "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B003-MED-2026.pdf",
         "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°03-MED-2026",
@@ -2919,6 +3018,33 @@
       }
     ],
     "consultations": [
+      {
+        "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
+        "title": "AVIS D'INFRUCTUOSITE CONSULTATION",
+        "date": "2026-03-26",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "Avis%20de%20Negociation%20apres%20consulattion.pdf",
+        "title": "AVIS DE NÉGOCIATIONS APRÈS CONSULTATION N°01-2026",
+        "date": "2026-03-25",
+        "reference": "N°01-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Negociation%20apres%20consulattion.pdf",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+        "title": "AVIS DE PROROGATION CONSULTATION N° 06-MED-2026",
+        "date": "2026-03-25",
+        "reference": "N°06-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20consultation%20Consultation%20N%C2%B0%2007-MED-2026.pdf",
         "title": "AVIS DE CONSULTATION CONSULTATION N° 07-MED-2026",

@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-03-30T06:18:26.851Z",
-  "freshCount": 0,
-  "totalCount": 194,
+  "scrapedAt": "2026-03-30T15:57:00.935Z",
+  "freshCount": 181,
+  "totalCount": 195,
   "allItems": [
+    {
+      "id": "Avis%20de%20consultation%20N%C2%B002-AS-PCH-2026%20relatif%20%C3%A0%20l%E2%80%99acquisition%20de%20mat%C3%A9riel%20informatique..pdf",
+      "title": "AVIS DE CONSULT",
+      "date": "2026-03-29",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20N%C2%B002-AS-PCH-2026%20relatif%20%C3%A0%20l%E2%80%99acquisition%20de%20mat%C3%A9riel%20informatique..pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2004-DM-2026%20-%20DRAIN%20DE%20KHER.Pdf",
       "title": "AVIS D'INFRUCTUOSITE CONSULTATION N 04-DM-2026 - DRAIN DE KHER",
@@ -3018,6 +3027,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20consultation%20N%C2%B002-AS-PCH-2026%20relatif%20%C3%A0%20l%E2%80%99acquisition%20de%20mat%C3%A9riel%20informatique..pdf",
+        "title": "AVIS DE CONSULT",
+        "date": "2026-03-29",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20N%C2%B002-AS-PCH-2026%20relatif%20%C3%A0%20l%E2%80%99acquisition%20de%20mat%C3%A9riel%20informatique..pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
         "title": "AVIS D'INFRUCTUOSITE CONSULTATION",

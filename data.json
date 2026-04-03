@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-04-03T05:51:18.357Z",
-  "freshCount": 0,
-  "totalCount": 195,
+  "scrapedAt": "2026-04-03T08:36:57.126Z",
+  "freshCount": 181,
+  "totalCount": 196,
   "allItems": [
+    {
+      "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20CONSULTATION%20N%C2%B002-DM-2026%20THERMOMETRE%20MEDICAL%20ELECTRONIQUE.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE CONS",
+      "date": "2026-04-02",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20CONSULTATION%20N%C2%B002-DM-2026%20THERMOMETRE%20MEDICAL%20ELECTRONIQUE.pdf",
+      "sourceId": "attribution"
+    },
     {
       "id": "Avis%20de%20consultation%20N%C2%B002-AS-PCH-2026%20relatif%20%C3%A0%20l%E2%80%99acquisition%20de%20mat%C3%A9riel%20informatique..pdf",
       "title": "AVIS DE CONSULT",
@@ -2159,6 +2168,15 @@
       }
     ],
     "attribution": [
+      {
+        "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20CONSULTATION%20N%C2%B002-DM-2026%20THERMOMETRE%20MEDICAL%20ELECTRONIQUE.pdf",
+        "title": "AVIS D'ATTRIBUTION PROVISOIRE CONS",
+        "date": "2026-04-02",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20CONSULTATION%20N%C2%B002-DM-2026%20THERMOMETRE%20MEDICAL%20ELECTRONIQUE.pdf",
+        "sourceId": "attribution"
+      },
       {
         "id": "Avis%20d%E2%80%99attribution%20provisoire%20Consultation%20N%C2%B004-MED2026.pdf",
         "title": "AVIS D’ATTRIBUTION PROVISOIRE CONSULTATION N°04-MED2026",

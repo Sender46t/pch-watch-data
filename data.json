@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-04-06T20:03:14.856Z",
-  "freshCount": 0,
-  "totalCount": 196,
+  "scrapedAt": "2026-04-07T05:59:28.922Z",
+  "freshCount": 181,
+  "totalCount": 197,
   "allItems": [
+    {
+      "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML_0.pdf",
+      "title": "AVIS D'ATTRIBUTION PRO",
+      "date": "2026-04-06",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML_0.pdf",
+      "sourceId": "attribution"
+    },
     {
       "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20CONSULTATION%20N%C2%B002-DM-2026%20THERMOMETRE%20MEDICAL%20ELECTRONIQUE.pdf",
       "title": "AVIS D'ATTRIBUTION PROVISOIRE CONS",
@@ -2168,6 +2177,15 @@
       }
     ],
     "attribution": [
+      {
+        "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML_0.pdf",
+        "title": "AVIS D'ATTRIBUTION PRO",
+        "date": "2026-04-06",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML_0.pdf",
+        "sourceId": "attribution"
+      },
       {
         "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20CONSULTATION%20N%C2%B002-DM-2026%20THERMOMETRE%20MEDICAL%20ELECTRONIQUE.pdf",
         "title": "AVIS D'ATTRIBUTION PROVISOIRE CONS",

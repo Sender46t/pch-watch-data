@@ -1,8 +1,44 @@
 {
-  "scrapedAt": "2026-04-17T18:49:45.570Z",
-  "freshCount": 0,
-  "totalCount": 200,
+  "scrapedAt": "2026-04-18T01:47:59.794Z",
+  "freshCount": 183,
+  "totalCount": 204,
   "allItems": [
+    {
+      "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B007-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+      "title": "AVIS D'INFRUCTUOSITE - CON",
+      "date": "2026-04-16",
+      "reference": null,
+      "produit": "CON",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B007-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+      "sourceId": "infructuosite"
+    },
+    {
+      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+      "title": "AVIS DE CONSULTATION N°09-MED-2026 - VERT D'I",
+      "date": "2026-04-16",
+      "reference": "N°09-MED-2026",
+      "produit": "VERT D'I",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20de%20consultaton%20Consultation%20N%C2%B003-AS-PCH-2026.pdf",
+      "title": "AVIS DE CONSULTATON CONSULTATION N°03-AS-PCH-2026",
+      "date": "2026-04-14",
+      "reference": "N°03-AS-PCH-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultaton%20Consultation%20N%C2%B003-AS-PCH-2026.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B008-MED-2026%20-%20DENR%C3%89E%20ALIMENTAIRE%20DESTIN%C3%89E%20A%20DES%20FINS.pdf",
+      "title": "AVIS DE CONSULTATION N°08-MED-202",
+      "date": "2026-04-14",
+      "reference": "N°08-MED-202",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B008-MED-2026%20-%20DENR%C3%89E%20ALIMENTAIRE%20DESTIN%C3%89E%20A%20DES%20FINS.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20infructuosit%C3%A9%20Consultation%2006%20MED%202026.pdf",
       "title": "AVIS INFRUCTUOSITÉ CONSULTATION 06 MED 2026",
@@ -2639,6 +2675,15 @@
     ],
     "infructuosite": [
       {
+        "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B007-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+        "title": "AVIS D'INFRUCTUOSITE - CON",
+        "date": "2026-04-16",
+        "reference": null,
+        "produit": "CON",
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B007-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+        "sourceId": "infructuosite"
+      },
+      {
         "id": "Avis%20infructuosit%C3%A9%20Consultation%2006%20MED%202026.pdf",
         "title": "AVIS INFRUCTUOSITÉ CONSULTATION 06 MED 2026",
         "date": "2026-04-13",
@@ -3117,6 +3162,33 @@
       }
     ],
     "consultations": [
+      {
+        "id": "AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+        "title": "AVIS DE CONSULTATION N°09-MED-2026 - VERT D'I",
+        "date": "2026-04-16",
+        "reference": "N°09-MED-2026",
+        "produit": "VERT D'I",
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "Avis%20de%20consultaton%20Consultation%20N%C2%B003-AS-PCH-2026.pdf",
+        "title": "AVIS DE CONSULTATON CONSULTATION N°03-AS-PCH-2026",
+        "date": "2026-04-14",
+        "reference": "N°03-AS-PCH-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultaton%20Consultation%20N%C2%B003-AS-PCH-2026.pdf",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "AVIS%20DE%20CONSULTATION%20N%C2%B008-MED-2026%20-%20DENR%C3%89E%20ALIMENTAIRE%20DESTIN%C3%89E%20A%20DES%20FINS.pdf",
+        "title": "AVIS DE CONSULTATION N°08-MED-202",
+        "date": "2026-04-14",
+        "reference": "N°08-MED-202",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B008-MED-2026%20-%20DENR%C3%89E%20ALIMENTAIRE%20DESTIN%C3%89E%20A%20DES%20FINS.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20consultation%20N%C2%B002-AS-PCH-2026%20relatif%20%C3%A0%20l%E2%80%99acquisition%20de%20mat%C3%A9riel%20informatique..pdf",
         "title": "AVIS DE CONSULT",

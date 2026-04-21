@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-04-21T13:07:09.014Z",
-  "freshCount": 0,
-  "totalCount": 204,
+  "scrapedAt": "2026-04-21T19:03:25.406Z",
+  "freshCount": 183,
+  "totalCount": 205,
   "allItems": [
+    {
+      "id": "Avis%20de%20consultation%20Consultation%20N%C2%B0%2004-AS-PCH-2026.pdf",
+      "title": "AVIS DE CONSULTATION CONSULTATION N° 04/AS/PCH/2026",
+      "date": "2026-04-19",
+      "reference": "N°04/AS/PCH/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%20N%C2%B0%2004-AS-PCH-2026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B007-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
       "title": "AVIS D'INFRUCTUOSITE - CON",
@@ -3162,6 +3171,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20consultation%20Consultation%20N%C2%B0%2004-AS-PCH-2026.pdf",
+        "title": "AVIS DE CONSULTATION CONSULTATION N° 04/AS/PCH/2026",
+        "date": "2026-04-19",
+        "reference": "N°04/AS/PCH/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%20N%C2%B0%2004-AS-PCH-2026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
         "title": "AVIS DE CONSULTATION N°09-MED-2026 - VERT D'I",

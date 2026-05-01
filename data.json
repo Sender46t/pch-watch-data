@@ -1,8 +1,26 @@
 {
-  "scrapedAt": "2026-04-30T19:08:53.460Z",
-  "freshCount": 0,
-  "totalCount": 205,
+  "scrapedAt": "2026-05-01T02:27:34.578Z",
+  "freshCount": 183,
+  "totalCount": 207,
   "allItems": [
+    {
+      "id": "AVIS%20DE%20PROROGATION%20-%20CONSULTATION%20N%C2%B008-MED-2026%20-%20DENR%C3%89E%20ALIMENTAIRE%20DESTIN%C3%89E%20A%20DES%20FINS.pdf",
+      "title": "AVIS DE PROROGA",
+      "date": "2026-04-29",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20PROROGATION%20-%20CONSULTATION%20N%C2%B008-MED-2026%20-%20DENR%C3%89E%20ALIMENTAIRE%20DESTIN%C3%89E%20A%20DES%20FINS.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2009-MED-2026.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION N° 09-MED-2026",
+      "date": "2026-04-28",
+      "reference": "N°09-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2009-MED-2026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20de%20consultation%20Consultation%20N%C2%B0%2004-AS-PCH-2026.pdf",
       "title": "AVIS DE CONSULTATION CONSULTATION N° 04/AS/PCH/2026",
@@ -3171,6 +3189,24 @@
       }
     ],
     "consultations": [
+      {
+        "id": "AVIS%20DE%20PROROGATION%20-%20CONSULTATION%20N%C2%B008-MED-2026%20-%20DENR%C3%89E%20ALIMENTAIRE%20DESTIN%C3%89E%20A%20DES%20FINS.pdf",
+        "title": "AVIS DE PROROGA",
+        "date": "2026-04-29",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20PROROGATION%20-%20CONSULTATION%20N%C2%B008-MED-2026%20-%20DENR%C3%89E%20ALIMENTAIRE%20DESTIN%C3%89E%20A%20DES%20FINS.pdf",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2009-MED-2026.pdf",
+        "title": "AVIS DE PROROGATION CONSULTATION N° 09-MED-2026",
+        "date": "2026-04-28",
+        "reference": "N°09-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2009-MED-2026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20consultation%20Consultation%20N%C2%B0%2004-AS-PCH-2026.pdf",
         "title": "AVIS DE CONSULTATION CONSULTATION N° 04/AS/PCH/2026",

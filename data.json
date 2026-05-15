@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-05-14T19:30:00.833Z",
-  "freshCount": 0,
-  "totalCount": 208,
+  "scrapedAt": "2026-05-15T02:32:26.358Z",
+  "freshCount": 183,
+  "totalCount": 209,
   "allItems": [
+    {
+      "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B002-2026.pdf",
+      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT N° 02/2026 « TRANSPORT ROUTIER DE MARCHANDISE AU",
+      "date": "2026-05-13",
+      "reference": "N°02/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27appel%20d%27offres%20national%20n%C2%B002-2026.pdf",
+      "sourceId": "appel-doffres"
+    },
     {
       "id": "N%C3%A9gociation%20apr%C3%A8s%20Consultation%2001-2026%20portant%20acquisition%20des%20produits%20radio%20pharmaceutiques.pdf",
       "title": "AVIS D’ANNULATION NÉGO",
@@ -1878,6 +1887,15 @@
   ],
   "sources": {
     "appel-doffres": [
+      {
+        "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B002-2026.pdf",
+        "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT N° 02/2026 « TRANSPORT ROUTIER DE MARCHANDISE AU",
+        "date": "2026-05-13",
+        "reference": "N°02/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%27appel%20d%27offres%20national%20n%C2%B002-2026.pdf",
+        "sourceId": "appel-doffres"
+      },
       {
         "id": "Avis%20d%27annulation%20de%20l%27attribution%2008.2025.pdf",
         "title": "AVIS D’ANNULATION DE L’ATTRIBUTION PROVISOIRE DE L’APPEL D’OFFRES NATIONAL OUVERT N°08/20",

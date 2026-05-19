@@ -1,8 +1,26 @@
 {
-  "scrapedAt": "2026-05-19T14:43:02.091Z",
-  "freshCount": 0,
-  "totalCount": 209,
+  "scrapedAt": "2026-05-19T19:45:52.482Z",
+  "freshCount": 182,
+  "totalCount": 211,
   "allItems": [
+    {
+      "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B009-MED-2026.pdf",
+      "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°09-MED-2026",
+      "date": "2026-05-17",
+      "reference": "N°09-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B009-MED-2026.pdf",
+      "sourceId": "infructuosite"
+    },
+    {
+      "id": "Avis%20infructuosit%C3%A9%20Consultation%2008-MED-2026.pdf",
+      "title": "AVIS INFRUCTUOSITÉ CONSULTATION 08-MED-2026",
+      "date": "2026-05-17",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20Consultation%2008-MED-2026.pdf",
+      "sourceId": "infructuosite"
+    },
     {
       "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B002-2026.pdf",
       "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT N° 02/2026 « TRANSPORT ROUTIER DE MARCHANDISE AU",
@@ -2728,6 +2746,24 @@
       }
     ],
     "infructuosite": [
+      {
+        "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B009-MED-2026.pdf",
+        "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°09-MED-2026",
+        "date": "2026-05-17",
+        "reference": "N°09-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B009-MED-2026.pdf",
+        "sourceId": "infructuosite"
+      },
+      {
+        "id": "Avis%20infructuosit%C3%A9%20Consultation%2008-MED-2026.pdf",
+        "title": "AVIS INFRUCTUOSITÉ CONSULTATION 08-MED-2026",
+        "date": "2026-05-17",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20Consultation%2008-MED-2026.pdf",
+        "sourceId": "infructuosite"
+      },
       {
         "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B007-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
         "title": "AVIS D'INFRUCTUOSITE - CON",

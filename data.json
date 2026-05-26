@@ -1,8 +1,26 @@
 {
-  "scrapedAt": "2026-05-26T09:39:26.645Z",
-  "freshCount": 0,
-  "totalCount": 211,
+  "scrapedAt": "2026-05-26T14:51:22.359Z",
+  "freshCount": 74,
+  "totalCount": 213,
   "allItems": [
+    {
+      "id": "Avis%20d%27attribution%20provisoire%20Consultation%20N%C2%B0%2003-AS-PCH-2026.PDF",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE CONSULTATION N° 03-AS-PCH-2026",
+      "date": "2026-05-24",
+      "reference": "N°03-AS-PCH-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20Consultation%20N%C2%B0%2003-AS-PCH-2026.PDF",
+      "sourceId": "attribution"
+    },
+    {
+      "id": "Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
+      "title": "AVIS D'ANNULATION CONSULTATION N°04-AS-PCH-2026",
+      "date": "2026-05-24",
+      "reference": "N°04-AS-PCH-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B009-MED-2026.pdf",
       "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°09-MED-2026",
@@ -328,15 +346,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "Avis%20d%E2%80%99infructuosit%C3%A9%20Consultation%20N%C2%B001MED2026_0.pdf",
-      "title": "AVIS D’INFRUCTUOSITÉ CONSULTATION N°01/MED/2026",
-      "date": "2026-02-24",
-      "reference": "N°01/MED/2026",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%E2%80%99infructuosit%C3%A9%20Consultation%20N%C2%B001MED2026_0.pdf",
-      "sourceId": "infructuosite"
-    },
-    {
       "id": "Avis%20de%20consultation%20Consultation%2004MED2026%20.pdf",
       "title": "AVIS DE CONSULTATION CONSULTATION 04/MED/2026",
       "date": "2026-02-24",
@@ -344,6 +353,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%2004MED2026%20.pdf",
       "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20d%E2%80%99infructuosit%C3%A9%20Consultation%20N%C2%B001MED2026_0.pdf",
+      "title": "AVIS D’INFRUCTUOSITÉ CONSULTATION N°01/MED/2026",
+      "date": "2026-02-24",
+      "reference": "N°01/MED/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%E2%80%99infructuosit%C3%A9%20Consultation%20N%C2%B001MED2026_0.pdf",
+      "sourceId": "infructuosite"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20de%20l%27appel%20d%27offres%2001.2026.pdf",
@@ -616,15 +634,6 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",
-      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE",
-      "date": "2025-11-04",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",
-      "sourceId": "appel-doffres"
-    },
-    {
       "id": "Avis%20de%20Consultation%20%2030%20MED%202025.pdf",
       "title": "AVIS DE CONSULTATION CONSULTATION 30 MED 2025",
       "date": "2025-11-04",
@@ -632,6 +641,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Consultation%20%2030%20MED%202025.pdf",
       "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",
+      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE",
+      "date": "2025-11-04",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",
+      "sourceId": "appel-doffres"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20Consultation%2027-MED-2025.pdf",
@@ -661,15 +679,6 @@
       "sourceId": "attribution"
     },
     {
-      "id": "Avis%20d%E2%80%99infructuosit%C3%A9%20%20Constatation%20N%C2%B029-MED-2025.pdf",
-      "title": "AVIS D’INFRUCTUOSITÉ CONSTATATION N°29-MED-2025",
-      "date": "2025-10-27",
-      "reference": "N°29-MED-2025",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%E2%80%99infructuosit%C3%A9%20%20Constatation%20N%C2%B029-MED-2025.pdf",
-      "sourceId": "infructuosite"
-    },
-    {
       "id": "02-AVIS%20DE%20MODIFICATION%20DE%20CAHIER%20DES%20CHARGES%2002%202025.pdf",
       "title": "AVIS DE MODIFICATION DE CAHIER DE",
       "date": "2025-10-27",
@@ -677,6 +686,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/02-AVIS%20DE%20MODIFICATION%20DE%20CAHIER%20DES%20CHARGES%2002%202025.pdf",
       "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20d%E2%80%99infructuosit%C3%A9%20%20Constatation%20N%C2%B029-MED-2025.pdf",
+      "title": "AVIS D’INFRUCTUOSITÉ CONSTATATION N°29-MED-2025",
+      "date": "2025-10-27",
+      "reference": "N°29-MED-2025",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%E2%80%99infructuosit%C3%A9%20%20Constatation%20N%C2%B029-MED-2025.pdf",
+      "sourceId": "infructuosite"
     },
     {
       "id": "AVIS%20D%E2%80%99ATTRIBUTION%20PROVISOIRE%2001%202025.pdf",
@@ -751,15 +769,6 @@
       "sourceId": "attribution"
     },
     {
-      "id": "Avis%20d%27attribution%20Consultation%20N%C2%B001-DM-DG-PCH%202025_0.pdf",
-      "title": "AVIS D'ATTRIBUTION CONSULTATION N°01-DM-DG-PCH 2025",
-      "date": "2025-10-08",
-      "reference": "N°01-DM-DG-PCH",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20Consultation%20N%C2%B001-DM-DG-PCH%202025_0.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Avis%20de%20Consultation%20Consultation%20N%C2%B029-MED-2025_0.pdf",
       "title": "AVIS DE CONSULTATION CONSULTATION N°29-MED-2025",
       "date": "2025-10-08",
@@ -767,6 +776,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Consultation%20Consultation%20N%C2%B029-MED-2025_0.pdf",
       "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20d%27attribution%20Consultation%20N%C2%B001-DM-DG-PCH%202025_0.pdf",
+      "title": "AVIS D'ATTRIBUTION CONSULTATION N°01-DM-DG-PCH 2025",
+      "date": "2025-10-08",
+      "reference": "N°01-DM-DG-PCH",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20Consultation%20N%C2%B001-DM-DG-PCH%202025_0.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20de%20consultation%20Consultation%20N%C2%B028-MED2025.pdf",
@@ -832,15 +850,6 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Avis%20D%27attribution%20provisoire%20Consultation%20N%C2%B016-DM-2025.pdf",
-      "title": "AVIS D'ATTRIBUTION PROVISOIRE CONSULTATION N°16-DM-2025",
-      "date": "2025-09-02",
-      "reference": "N°16-DM-2025",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20D%27attribution%20provisoire%20Consultation%20N%C2%B016-DM-2025.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Avis%20de%20consultation%20Consultation%2027-MED-2025.pdf",
       "title": "AVIS DE CONSULTATION CONSULTATION 27-MED-2025",
       "date": "2025-09-02",
@@ -848,6 +857,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%2027-MED-2025.pdf",
       "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20D%27attribution%20provisoire%20Consultation%20N%C2%B016-DM-2025.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE CONSULTATION N°16-DM-2025",
+      "date": "2025-09-02",
+      "reference": "N°16-DM-2025",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20D%27attribution%20provisoire%20Consultation%20N%C2%B016-DM-2025.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B007-2025.pdf",
@@ -922,15 +940,6 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Attribution%20apr%C3%A9s%20recours%20AONIO%2005.2025.pdf",
-      "title": "AVIS D'ATTRIBUTION APRÈS RECOURS DE MARCHÉS",
-      "date": "2025-08-18",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Attribution%20apr%C3%A9s%20recours%20AONIO%2005.2025.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "avis%20de%20prorogation%20consultaion%20N24.med_.2025.pdf",
       "title": "AVIS DE PROROGATION CONSULTATION 24 MED 2025",
       "date": "2025-08-18",
@@ -938,6 +947,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/avis%20de%20prorogation%20consultaion%20N24.med_.2025.pdf",
       "sourceId": "consultations"
+    },
+    {
+      "id": "Attribution%20apr%C3%A9s%20recours%20AONIO%2005.2025.pdf",
+      "title": "AVIS D'ATTRIBUTION APRÈS RECOURS DE MARCHÉS",
+      "date": "2025-08-18",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Attribution%20apr%C3%A9s%20recours%20AONIO%2005.2025.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Consultation%2026%20MED%202025.pdf",
@@ -1003,15 +1021,6 @@
       "sourceId": "attribution"
     },
     {
-      "id": "Avis%20d%27infructuosit%C3%A9%20Consultation%20N%C2%B015-DM-2025.pdf",
-      "title": "AVIS D'INFRUCTUOSITÉ CONSULTATION N°15-DM-2025",
-      "date": "2025-07-20",
-      "reference": "N°15-DM-2025",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20Consultation%20N%C2%B015-DM-2025.pdf",
-      "sourceId": "infructuosite"
-    },
-    {
       "id": "Avis%20de%20consultation%20-%20Consultation%20N%C2%B0%2024-MED-2025.pdf",
       "title": "AVIS DE CONSULTATION - CONSULTATION N° 24-MED-2025",
       "date": "2025-07-20",
@@ -1019,6 +1028,15 @@
       "produit": "CONSULTATION N 24-MED-2025",
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20-%20Consultation%20N%C2%B0%2024-MED-2025.pdf",
       "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20d%27infructuosit%C3%A9%20Consultation%20N%C2%B015-DM-2025.pdf",
+      "title": "AVIS D'INFRUCTUOSITÉ CONSULTATION N°15-DM-2025",
+      "date": "2025-07-20",
+      "reference": "N°15-DM-2025",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20Consultation%20N%C2%B015-DM-2025.pdf",
+      "sourceId": "infructuosite"
     },
     {
       "id": "Avis%20d%27infructuosit%C3%A9%20Consultation%20N%C2%B020-MED-2025.pdf",
@@ -1048,15 +1066,6 @@
       "sourceId": "attribution"
     },
     {
-      "id": "Avis%20d%27infructuosit%C3%A9%20%20Consultation%20N%C2%B0%2018-MED-2025.pdf",
-      "title": "AVIS D'INFRUCTUOSITÉ CONSULTATION N° 18-MED-2025",
-      "date": "2025-07-07",
-      "reference": "N°18-MED-2025",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20%20Consultation%20N%C2%B0%2018-MED-2025.pdf",
-      "sourceId": "infructuosite"
-    },
-    {
       "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2021-MED-2025_0.pdf",
       "title": "AVIS DE PROROGATION CONSULTATION N° 21-MED-2025",
       "date": "2025-07-07",
@@ -1064,6 +1073,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2021-MED-2025_0.pdf",
       "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20d%27infructuosit%C3%A9%20%20Consultation%20N%C2%B0%2018-MED-2025.pdf",
+      "title": "AVIS D'INFRUCTUOSITÉ CONSULTATION N° 18-MED-2025",
+      "date": "2025-07-07",
+      "reference": "N°18-MED-2025",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20%20Consultation%20N%C2%B0%2018-MED-2025.pdf",
+      "sourceId": "infructuosite"
     },
     {
       "id": "Avis%20de%20Consultation%20N%C2%B017-DM-2025.pdf",
@@ -2313,6 +2331,15 @@
     ],
     "attribution": [
       {
+        "id": "Avis%20d%27attribution%20provisoire%20Consultation%20N%C2%B0%2003-AS-PCH-2026.PDF",
+        "title": "AVIS D'ATTRIBUTION PROVISOIRE CONSULTATION N° 03-AS-PCH-2026",
+        "date": "2026-05-24",
+        "reference": "N°03-AS-PCH-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20Consultation%20N%C2%B0%2003-AS-PCH-2026.PDF",
+        "sourceId": "attribution"
+      },
+      {
         "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML_0.pdf",
         "title": "AVIS D'ATTRIBUTION PRO",
         "date": "2026-04-06",
@@ -3252,6 +3279,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
+        "title": "AVIS D'ANNULATION CONSULTATION N°04-AS-PCH-2026",
+        "date": "2026-05-24",
+        "reference": "N°04-AS-PCH-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
+        "sourceId": "consultations"
+      },
       {
         "id": "N%C3%A9gociation%20apr%C3%A8s%20Consultation%2001-2026%20portant%20acquisition%20des%20produits%20radio%20pharmaceutiques.pdf",
         "title": "AVIS D’ANNULATION NÉGO",

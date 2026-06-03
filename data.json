@@ -1,8 +1,26 @@
 {
-  "scrapedAt": "2026-06-02T20:37:24.679Z",
-  "freshCount": 0,
-  "totalCount": 213,
+  "scrapedAt": "2026-06-03T03:26:50.025Z",
+  "freshCount": 182,
+  "totalCount": 215,
   "allItems": [
+    {
+      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B011-MED-2026%20-%20ISOPRENALINE%20CHL-SULF%20INJ%200.2MG.pdf",
+      "title": "AVIS DE CONSULTATION N°11-MED-2026 - ISOPRENALINE CHL-",
+      "date": "2026-06-02",
+      "reference": "N°11-MED-2026",
+      "produit": "ISOPRENALINE CHL-",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B011-MED-2026%20-%20ISOPRENALINE%20CHL-SULF%20INJ%200.2MG.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B010-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+      "title": "AVIS DE CONSULTATION N°10-MED-2026 - VERT D'I",
+      "date": "2026-06-01",
+      "reference": "N°10-MED-2026",
+      "produit": "VERT D'I",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B010-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20d%27attribution%20provisoire%20Consultation%20N%C2%B0%2003-AS-PCH-2026.PDF",
       "title": "AVIS D'ATTRIBUTION PROVISOIRE CONSULTATION N° 03-AS-PCH-2026",
@@ -3279,6 +3297,24 @@
       }
     ],
     "consultations": [
+      {
+        "id": "AVIS%20DE%20CONSULTATION%20N%C2%B011-MED-2026%20-%20ISOPRENALINE%20CHL-SULF%20INJ%200.2MG.pdf",
+        "title": "AVIS DE CONSULTATION N°11-MED-2026 - ISOPRENALINE CHL-",
+        "date": "2026-06-02",
+        "reference": "N°11-MED-2026",
+        "produit": "ISOPRENALINE CHL-",
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B011-MED-2026%20-%20ISOPRENALINE%20CHL-SULF%20INJ%200.2MG.pdf",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "AVIS%20DE%20CONSULTATION%20N%C2%B010-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+        "title": "AVIS DE CONSULTATION N°10-MED-2026 - VERT D'I",
+        "date": "2026-06-01",
+        "reference": "N°10-MED-2026",
+        "produit": "VERT D'I",
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B010-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
         "title": "AVIS D'ANNULATION CONSULTATION N°04-AS-PCH-2026",

@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-06-04T14:41:48.774Z",
-  "freshCount": 0,
-  "totalCount": 215,
+  "scrapedAt": "2026-06-04T19:56:55.661Z",
+  "freshCount": 181,
+  "totalCount": 216,
   "allItems": [
+    {
+      "id": "Avis%20de%20publication%20AONO%2009.2026.pdf",
+      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT N°09/2026 « MÉDICAMENTS »",
+      "date": "2026-06-03",
+      "reference": "N°09/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20publication%20AONO%2009.2026.pdf",
+      "sourceId": "appel-doffres"
+    },
     {
       "id": "AVIS%20DE%20CONSULTATION%20N%C2%B011-MED-2026%20-%20ISOPRENALINE%20CHL-SULF%20INJ%200.2MG.pdf",
       "title": "AVIS DE CONSULTATION N°11-MED-2026 - ISOPRENALINE CHL-",
@@ -1941,6 +1950,15 @@
   ],
   "sources": {
     "appel-doffres": [
+      {
+        "id": "Avis%20de%20publication%20AONO%2009.2026.pdf",
+        "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT N°09/2026 « MÉDICAMENTS »",
+        "date": "2026-06-03",
+        "reference": "N°09/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20publication%20AONO%2009.2026.pdf",
+        "sourceId": "appel-doffres"
+      },
       {
         "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B002-2026.pdf",
         "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT N° 02/2026 « TRANSPORT ROUTIER DE MARCHANDISE AU",

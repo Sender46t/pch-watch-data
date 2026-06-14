@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-06-14T09:21:34.373Z",
-  "freshCount": 0,
-  "totalCount": 217,
+  "scrapedAt": "2026-06-14T13:46:31.839Z",
+  "freshCount": 181,
+  "totalCount": 218,
   "allItems": [
+    {
+      "id": "Avis%20d%E2%80%99appel%20d%E2%80%99offres%20national%20et%20international%20ouvert%20N%C2%B011-2026.pdf",
+      "title": "AVIS D’APPEL D’OFFRES NATIONAL ET INTERNATIO",
+      "date": "2026-06-14",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%E2%80%99appel%20d%E2%80%99offres%20national%20et%20international%20ouvert%20N%C2%B011-2026.pdf",
+      "sourceId": "appel-doffres"
+    },
     {
       "id": "AVIS%20DE%20PROROGATION%20-%20CONSULTATION%20N%C2%B011-MED-2026%20-%20ISOPRENALINE%20CHL-SULF%20INJ%200%2C2MG%20%281%29.pdf",
       "title": "AVIS DE PROROGATION - CO",
@@ -1959,6 +1968,15 @@
   ],
   "sources": {
     "appel-doffres": [
+      {
+        "id": "Avis%20d%E2%80%99appel%20d%E2%80%99offres%20national%20et%20international%20ouvert%20N%C2%B011-2026.pdf",
+        "title": "AVIS D’APPEL D’OFFRES NATIONAL ET INTERNATIO",
+        "date": "2026-06-14",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%E2%80%99appel%20d%E2%80%99offres%20national%20et%20international%20ouvert%20N%C2%B011-2026.pdf",
+        "sourceId": "appel-doffres"
+      },
       {
         "id": "Avis%20de%20publication%20AONO%2009.2026.pdf",
         "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT N°09/2026 « MÉDICAMENTS »",

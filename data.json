@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-06-15T20:47:56.324Z",
-  "freshCount": 0,
-  "totalCount": 218,
+  "scrapedAt": "2026-06-16T03:00:07.741Z",
+  "freshCount": 181,
+  "totalCount": 219,
   "allItems": [
+    {
+      "id": "Avis%20de%20prorogation%20%20Consultation%20N%C2%B0%2010-MED2026_0.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION N° 10-MED2026",
+      "date": "2026-06-15",
+      "reference": "N°10-MED2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20%20Consultation%20N%C2%B0%2010-MED2026_0.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20d%E2%80%99appel%20d%E2%80%99offres%20national%20et%20international%20ouvert%20N%C2%B011-2026.pdf",
       "title": "AVIS D’APPEL D’OFFRES NATIONAL ET INTERNATIO",
@@ -3342,6 +3351,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20prorogation%20%20Consultation%20N%C2%B0%2010-MED2026_0.pdf",
+        "title": "AVIS DE PROROGATION CONSULTATION N° 10-MED2026",
+        "date": "2026-06-15",
+        "reference": "N°10-MED2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20%20Consultation%20N%C2%B0%2010-MED2026_0.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "AVIS%20DE%20PROROGATION%20-%20CONSULTATION%20N%C2%B011-MED-2026%20-%20ISOPRENALINE%20CHL-SULF%20INJ%200%2C2MG%20%281%29.pdf",
         "title": "AVIS DE PROROGATION - CO",

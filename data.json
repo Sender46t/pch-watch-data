@@ -1,8 +1,26 @@
 {
-  "scrapedAt": "2026-06-25T19:48:10.055Z",
-  "freshCount": 0,
-  "totalCount": 219,
+  "scrapedAt": "2026-06-26T02:40:22.936Z",
+  "freshCount": 182,
+  "totalCount": 221,
   "allItems": [
+    {
+      "id": "Avis%20d%27attribution%20de%20l%27AONO%20N%C2%B009-2026%20M%C3%A9dicaments.pdf",
+      "title": "AVIS D’ATTRIBUTION PROVISOIRE DE L’APPEL D’OFFRES NATIONAL OUVERT N°0",
+      "date": "2026-06-24",
+      "reference": "N°0",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20de%20l%27AONO%20N%C2%B009-2026%20M%C3%A9dicaments.pdf",
+      "sourceId": "attribution"
+    },
+    {
+      "id": "Avis%20de%20consultation%20Consultation%20N%C2%B001-MDL-PCH-2026.pdf",
+      "title": "AVIS DE CONSULTATION CONSULTATION N°01-MDL-PCH-2026",
+      "date": "2026-06-22",
+      "reference": "N°01-MDL-PCH-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%20N%C2%B001-MDL-PCH-2026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20de%20prorogation%20%20Consultation%20N%C2%B0%2010-MED2026_0.pdf",
       "title": "AVIS DE PROROGATION CONSULTATION N° 10-MED2026",
@@ -2403,6 +2421,15 @@
     ],
     "attribution": [
       {
+        "id": "Avis%20d%27attribution%20de%20l%27AONO%20N%C2%B009-2026%20M%C3%A9dicaments.pdf",
+        "title": "AVIS D’ATTRIBUTION PROVISOIRE DE L’APPEL D’OFFRES NATIONAL OUVERT N°0",
+        "date": "2026-06-24",
+        "reference": "N°0",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20de%20l%27AONO%20N%C2%B009-2026%20M%C3%A9dicaments.pdf",
+        "sourceId": "attribution"
+      },
+      {
         "id": "Avis%20d%27attribution%20provisoire%20Consultation%20N%C2%B0%2003-AS-PCH-2026.PDF",
         "title": "AVIS D'ATTRIBUTION PROVISOIRE CONSULTATION N° 03-AS-PCH-2026",
         "date": "2026-05-24",
@@ -3351,6 +3378,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20consultation%20Consultation%20N%C2%B001-MDL-PCH-2026.pdf",
+        "title": "AVIS DE CONSULTATION CONSULTATION N°01-MDL-PCH-2026",
+        "date": "2026-06-22",
+        "reference": "N°01-MDL-PCH-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%20N%C2%B001-MDL-PCH-2026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20prorogation%20%20Consultation%20N%C2%B0%2010-MED2026_0.pdf",
         "title": "AVIS DE PROROGATION CONSULTATION N° 10-MED2026",

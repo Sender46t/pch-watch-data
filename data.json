@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-06-30T08:59:24.984Z",
+  "scrapedAt": "2026-06-30T14:02:34.492Z",
   "freshCount": 182,
-  "totalCount": 221,
+  "totalCount": 222,
   "allItems": [
+    {
+      "id": "Avais%20de%20consultaton%20Consultation%20N%C2%B012-MED-2026_22.pdf",
+      "title": "AVAIS DE CONSULTATON CONSULTATION N°12-MED-2026",
+      "date": "2026-06-30",
+      "reference": "N°12-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avais%20de%20consultaton%20Consultation%20N%C2%B012-MED-2026_22.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20d%27attribution%20de%20l%27AONO%20N%C2%B009-2026%20M%C3%A9dicaments.pdf",
       "title": "AVIS D’ATTRIBUTION PROVISOIRE DE L’APPEL D’OFFRES NATIONAL OUVERT N°0",
@@ -3378,6 +3387,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avais%20de%20consultaton%20Consultation%20N%C2%B012-MED-2026_22.pdf",
+        "title": "AVAIS DE CONSULTATON CONSULTATION N°12-MED-2026",
+        "date": "2026-06-30",
+        "reference": "N°12-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avais%20de%20consultaton%20Consultation%20N%C2%B012-MED-2026_22.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20consultation%20Consultation%20N%C2%B001-MDL-PCH-2026.pdf",
         "title": "AVIS DE CONSULTATION CONSULTATION N°01-MDL-PCH-2026",

@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-07-01T02:46:29.197Z",
+  "scrapedAt": "2026-07-01T09:33:12.609Z",
   "freshCount": 182,
-  "totalCount": 222,
+  "totalCount": 223,
   "allItems": [
+    {
+      "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B011-MED-2026_0.pdf",
+      "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°11-MED-2026",
+      "date": "2026-07-01",
+      "reference": "N°11-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B011-MED-2026_0.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avais%20de%20consultaton%20Consultation%20N%C2%B012-MED-2026_22.pdf",
       "title": "AVAIS DE CONSULTATON CONSULTATION N°12-MED-2026",
@@ -3387,6 +3396,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B011-MED-2026_0.pdf",
+        "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°11-MED-2026",
+        "date": "2026-07-01",
+        "reference": "N°11-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B011-MED-2026_0.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avais%20de%20consultaton%20Consultation%20N%C2%B012-MED-2026_22.pdf",
         "title": "AVAIS DE CONSULTATON CONSULTATION N°12-MED-2026",

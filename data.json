@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-07T02:25:59.466Z",
-  "freshCount": 181,
+  "scrapedAt": "2026-07-07T09:28:53.207Z",
+  "freshCount": 182,
   "totalCount": 224,
   "allItems": [
     {
@@ -346,15 +346,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "Avis%20de%20prorogation%20%20Consultation%2005%20MED%202026.pdf",
-      "title": "AVIS DE PROROGATION CONSULTATION 05 MED 2026",
-      "date": "2026-03-15",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20%20Consultation%2005%20MED%202026.pdf",
-      "sourceId": "consultations"
-    },
-    {
       "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B003-MED-2026.pdf",
       "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°03-MED-2026",
       "date": "2026-03-15",
@@ -362,6 +353,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B003-MED-2026.pdf",
       "sourceId": "infructuosite"
+    },
+    {
+      "id": "Avis%20de%20prorogation%20%20Consultation%2005%20MED%202026.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION 05 MED 2026",
+      "date": "2026-03-15",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20%20Consultation%2005%20MED%202026.pdf",
+      "sourceId": "consultations"
     },
     {
       "id": "Avis%20de%20consultation%20Consultation%20N%C2%B006-MED-2026.pdf",

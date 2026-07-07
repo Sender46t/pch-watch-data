@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-07-07T09:28:53.207Z",
-  "freshCount": 182,
-  "totalCount": 224,
+  "scrapedAt": "2026-07-07T14:13:07.714Z",
+  "freshCount": 181,
+  "totalCount": 225,
   "allItems": [
+    {
+      "id": "Avis%20de%20consultation%20Consultation%20N%C2%B006-AS-PCH-2026.pdf",
+      "title": "AVIS DE CONSULTATION CONSULTATION N°06-AS-PCH-2026",
+      "date": "2026-07-07",
+      "reference": "N°06-AS-PCH-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%20N%C2%B006-AS-PCH-2026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20d%E2%80%99Infructuosit%C3%A9%20de%20l%27appel%20d%27offres%20national%20ouvert%20N%C2%B002-2026%20%C2%AB%20Transport%20Routier%20%C2%BB_0.pdf",
       "title": "AVIS D’INFRUCTUOS",
@@ -3414,6 +3423,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20consultation%20Consultation%20N%C2%B006-AS-PCH-2026.pdf",
+        "title": "AVIS DE CONSULTATION CONSULTATION N°06-AS-PCH-2026",
+        "date": "2026-07-07",
+        "reference": "N°06-AS-PCH-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%20N%C2%B006-AS-PCH-2026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B011-MED-2026_0.pdf",
         "title": "AVIS INFRUCTUOSITÉ CONSULTATION N°11-MED-2026",

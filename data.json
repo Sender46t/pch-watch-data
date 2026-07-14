@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-14T13:17:29.831Z",
-  "freshCount": 29,
+  "scrapedAt": "2026-07-14T19:08:13.332Z",
+  "freshCount": 181,
   "totalCount": 226,
   "allItems": [
     {
@@ -121,15 +121,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
-      "title": "AVIS D'ANNULATION CONSULTATION N°04-AS-PCH-2026",
-      "date": "2026-05-24",
-      "reference": "N°04-AS-PCH-2026",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
-      "sourceId": "consultations"
-    },
-    {
       "id": "Avis%20d%27attribution%20provisoire%20Consultation%20N%C2%B0%2003-AS-PCH-2026.PDF",
       "title": "AVIS D'ATTRIBUTION PROVISOIRE CONSULTATION N° 03-AS-PCH-2026",
       "date": "2026-05-24",
@@ -137,6 +128,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20Consultation%20N%C2%B0%2003-AS-PCH-2026.PDF",
       "sourceId": "attribution"
+    },
+    {
+      "id": "Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
+      "title": "AVIS D'ANNULATION CONSULTATION N°04-AS-PCH-2026",
+      "date": "2026-05-24",
+      "reference": "N°04-AS-PCH-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27annulation%20Consultation%20N%C2%B004-AS-PCH-2026.PDF",
+      "sourceId": "consultations"
     },
     {
       "id": "Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B009-MED-2026.pdf",
@@ -202,15 +202,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
-      "title": "AVIS DE CONSULTATION N°09-MED-2026 - VERT D'I",
-      "date": "2026-04-16",
-      "reference": "N°09-MED-2026",
-      "produit": "VERT D'I",
-      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
-      "sourceId": "consultations"
-    },
-    {
       "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B007-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
       "title": "AVIS D'INFRUCTUOSITE - CON",
       "date": "2026-04-16",
@@ -218,6 +209,15 @@
       "produit": "CON",
       "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B007-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
       "sourceId": "infructuosite"
+    },
+    {
+      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+      "title": "AVIS DE CONSULTATION N°09-MED-2026 - VERT D'I",
+      "date": "2026-04-16",
+      "reference": "N°09-MED-2026",
+      "produit": "VERT D'I",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B009-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ.pdf",
+      "sourceId": "consultations"
     },
     {
       "id": "Avis%20de%20consultaton%20Consultation%20N%C2%B003-AS-PCH-2026.pdf",
@@ -292,15 +292,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
-      "title": "AVIS D'INFRUCTUOSITE CONSULTATION",
-      "date": "2026-03-26",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
-      "sourceId": "consultations"
-    },
-    {
       "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2004-DM-2026%20-%20DRAIN%20DE%20KHER.Pdf",
       "title": "AVIS D'INFRUCTUOSITE CONSULTATION N 04-DM-2026 - DRAIN DE KHER",
       "date": "2026-03-26",
@@ -319,21 +310,12 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Avis%20de%20Negociation%20apres%20consulattion.pdf",
-      "title": "AVIS DE NÉGOCIATIONS APRÈS CONSULTATION N°01-2026",
-      "date": "2026-03-25",
-      "reference": "N°01-2026",
+      "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
+      "title": "AVIS D'INFRUCTUOSITE CONSULTATION",
+      "date": "2026-03-26",
+      "reference": null,
       "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Negociation%20apres%20consulattion.pdf",
-      "sourceId": "consultations"
-    },
-    {
-      "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
-      "title": "AVIS DE PROROGATION CONSULTATION N° 06-MED-2026",
-      "date": "2026-03-25",
-      "reference": "N°06-MED-2026",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%2001-DM-2026-%20NECESSAIRE%20ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.PDF",
       "sourceId": "consultations"
     },
     {
@@ -355,21 +337,30 @@
       "sourceId": "infructuosite"
     },
     {
+      "id": "Avis%20de%20Negociation%20apres%20consulattion.pdf",
+      "title": "AVIS DE NÉGOCIATIONS APRÈS CONSULTATION N°01-2026",
+      "date": "2026-03-25",
+      "reference": "N°01-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Negociation%20apres%20consulattion.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION N° 06-MED-2026",
+      "date": "2026-03-25",
+      "reference": "N°06-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+      "sourceId": "consultations"
+    },
+    {
       "id": "Avis%20de%20consultation%20Consultation%20N%C2%B0%2007-MED-2026.pdf",
       "title": "AVIS DE CONSULTATION CONSULTATION N° 07-MED-2026",
       "date": "2026-03-19",
       "reference": "N°07-MED-2026",
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%20N%C2%B0%2007-MED-2026.pdf",
-      "sourceId": "consultations"
-    },
-    {
-      "id": "Avis%20de%20prorogation%20%20Consultation%2005%20MED%202026.pdf",
-      "title": "AVIS DE PROROGATION CONSULTATION 05 MED 2026",
-      "date": "2026-03-15",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20%20Consultation%2005%20MED%202026.pdf",
       "sourceId": "consultations"
     },
     {
@@ -380,6 +371,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20infructuosit%C3%A9%20Consultation%20N%C2%B003-MED-2026.pdf",
       "sourceId": "infructuosite"
+    },
+    {
+      "id": "Avis%20de%20prorogation%20%20Consultation%2005%20MED%202026.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION 05 MED 2026",
+      "date": "2026-03-15",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20%20Consultation%2005%20MED%202026.pdf",
+      "sourceId": "consultations"
     },
     {
       "id": "Avis%20de%20consultation%20Consultation%20N%C2%B006-MED-2026.pdf",
@@ -508,15 +508,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "Avis%20de%20consultation%20Consultation%2002-MED-2026.pdf",
-      "title": "AVIS DE CONSULTATION CONSULTATION 02-MED-2026",
-      "date": "2026-02-12",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%2002-MED-2026.pdf",
-      "sourceId": "consultations"
-    },
-    {
       "id": "Avis%20d%27annulation%20de%20l%27attribution%2008.2025.pdf",
       "title": "AVIS D’ANNULATION DE L’ATTRIBUTION PROVISOIRE DE L’APPEL D’OFFRES NATIONAL OUVERT N°08/20",
       "date": "2026-02-12",
@@ -524,6 +515,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20d%27annulation%20de%20l%27attribution%2008.2025.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "Avis%20de%20consultation%20Consultation%2002-MED-2026.pdf",
+      "title": "AVIS DE CONSULTATION CONSULTATION 02-MED-2026",
+      "date": "2026-02-12",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20Consultation%2002-MED-2026.pdf",
+      "sourceId": "consultations"
     },
     {
       "id": "Attribution%20provisoire%20AONO%20N%C2%B014.2025.pdf",
@@ -733,6 +733,15 @@
       "sourceId": "appel-doffres"
     },
     {
+      "id": "Avis%20de%20l%27AONO%20N%C2%B013-2025%20Reactifs_0.pdf",
+      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE LES PRODUITS S",
+      "date": "2025-11-10",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20l%27AONO%20N%C2%B013-2025%20Reactifs_0.pdf",
+      "sourceId": "appel-doffres"
+    },
+    {
       "id": "Avis%20d%27infructuosit%C3%A9%20%20%20Consultation%2027%20%20MED%202025.pdf",
       "title": "AVIS D’INFRUCTUOSITÉ CONSULTATION 27 MED 2025",
       "date": "2025-11-10",
@@ -742,12 +751,12 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Avis%20de%20l%27AONO%20N%C2%B013-2025%20Reactifs_0.pdf",
-      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE LES PRODUITS S",
-      "date": "2025-11-10",
+      "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",
+      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE",
+      "date": "2025-11-04",
       "reference": null,
       "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20l%27AONO%20N%C2%B013-2025%20Reactifs_0.pdf",
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",
       "sourceId": "appel-doffres"
     },
     {
@@ -758,15 +767,6 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Consultation%20%2030%20MED%202025.pdf",
       "sourceId": "consultations"
-    },
-    {
-      "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",
-      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE",
-      "date": "2025-11-04",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",
-      "sourceId": "appel-doffres"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20Consultation%2027-MED-2025.pdf",
@@ -1633,15 +1633,6 @@
       "sourceId": "appel-doffres"
     },
     {
-      "id": "Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B024-2024%20et%20la%20Liste%20des%20produits%20infructueux.pdf",
-      "title": "AVIS D'ATTRIBUTION PROVISOIRE AONO",
-      "date": "2025-04-17",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B024-2024%20et%20la%20Liste%20des%20produits%20infructueux.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Avis%20d%27appel%20d%27offres%20national%20et%20international%20n%C2%B005-2025.pdf",
       "title": "AVIS D’APPEL D’OFFRES NATIONAL ET INTERNATIONAL OUVERT « FOURNITU",
       "date": "2025-04-17",
@@ -1649,6 +1640,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20d%27appel%20d%27offres%20national%20et%20international%20n%C2%B005-2025.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B024-2024%20et%20la%20Liste%20des%20produits%20infructueux.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE AONO",
+      "date": "2025-04-17",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B024-2024%20et%20la%20Liste%20des%20produits%20infructueux.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20relatif%20%C3%A0%20l%27Appel%20d%27Offres%20National%20et%20international%20ouvert%20n%C2%B0182024.pdf",
@@ -1660,15 +1660,6 @@
       "sourceId": "attribution"
     },
     {
-      "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
-      "title": "AVIS D'ATTRIBUTION PROVISOIRE - CONSULTAT",
-      "date": "2025-03-26",
-      "reference": null,
-      "produit": "CONSULTAT",
-      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Appel%20d%E2%80%99Offres%20National%20Ouvert%20avec%20exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B015%202024_0.pdf",
       "title": "APPEL D’OFFRES NATIONAL OU",
       "date": "2025-03-26",
@@ -1676,6 +1667,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Appel%20d%E2%80%99Offres%20National%20Ouvert%20avec%20exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B015%202024_0.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE - CONSULTAT",
+      "date": "2025-03-26",
+      "reference": null,
+      "produit": "CONSULTAT",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20AONO%2020.2024.pdf",

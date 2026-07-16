@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-07-16T08:00:09.624Z",
+  "scrapedAt": "2026-07-16T13:26:21.678Z",
   "freshCount": 182,
-  "totalCount": 227,
+  "totalCount": 228,
   "allItems": [
+    {
+      "id": "Avis%20de%20prorogation%20%20N%C2%B012-MED-2026_2.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION N°12-MED-2026",
+      "date": "2026-07-16",
+      "reference": "N°12-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20%20N%C2%B012-MED-2026_2.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20d%27infructuosit%C3%A9%20%20Consultation%20N%C2%B010-MED-2026.pdf",
       "title": "AVIS D'INFRUCTUOSITÉ CONSULTATION N°10-MED-2026",
@@ -3459,6 +3468,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20prorogation%20%20N%C2%B012-MED-2026_2.pdf",
+        "title": "AVIS DE PROROGATION CONSULTATION N°12-MED-2026",
+        "date": "2026-07-16",
+        "reference": "N°12-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20%20N%C2%B012-MED-2026_2.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20consultation%20Consultation%20N%C2%B006-AS-PCH-2026.pdf",
         "title": "AVIS DE CONSULTATION CONSULTATION N°06-AS-PCH-2026",

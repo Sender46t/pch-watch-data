@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-16T13:26:21.678Z",
-  "freshCount": 182,
+  "scrapedAt": "2026-07-16T19:00:50.704Z",
+  "freshCount": 181,
   "totalCount": 228,
   "allItems": [
     {
@@ -355,21 +355,21 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Avis%20de%20Negociation%20apres%20consulattion.pdf",
-      "title": "AVIS DE NÉGOCIATIONS APRÈS CONSULTATION N°01-2026",
-      "date": "2026-03-25",
-      "reference": "N°01-2026",
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Negociation%20apres%20consulattion.pdf",
-      "sourceId": "consultations"
-    },
-    {
       "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
       "title": "AVIS DE PROROGATION CONSULTATION N° 06-MED-2026",
       "date": "2026-03-25",
       "reference": "N°06-MED-2026",
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "Avis%20de%20Negociation%20apres%20consulattion.pdf",
+      "title": "AVIS DE NÉGOCIATIONS APRÈS CONSULTATION N°01-2026",
+      "date": "2026-03-25",
+      "reference": "N°01-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Negociation%20apres%20consulattion.pdf",
       "sourceId": "consultations"
     },
     {
@@ -3640,21 +3640,21 @@
         "sourceId": "consultations"
       },
       {
-        "id": "Avis%20de%20Negociation%20apres%20consulattion.pdf",
-        "title": "AVIS DE NÉGOCIATIONS APRÈS CONSULTATION N°01-2026",
-        "date": "2026-03-25",
-        "reference": "N°01-2026",
-        "produit": null,
-        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Negociation%20apres%20consulattion.pdf",
-        "sourceId": "consultations"
-      },
-      {
         "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
         "title": "AVIS DE PROROGATION CONSULTATION N° 06-MED-2026",
         "date": "2026-03-25",
         "reference": "N°06-MED-2026",
         "produit": null,
         "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B0%2006-MED-2026.pdf",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "Avis%20de%20Negociation%20apres%20consulattion.pdf",
+        "title": "AVIS DE NÉGOCIATIONS APRÈS CONSULTATION N°01-2026",
+        "date": "2026-03-25",
+        "reference": "N°01-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Negociation%20apres%20consulattion.pdf",
         "sourceId": "consultations"
       },
       {

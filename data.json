@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-07-19T08:05:06.935Z",
-  "freshCount": 172,
-  "totalCount": 228,
+  "scrapedAt": "2026-07-19T13:00:53.561Z",
+  "freshCount": 134,
+  "totalCount": 229,
   "allItems": [
+    {
+      "id": "avis%20de%20d%27offres%20N%C2%B006-2026.pdf",
+      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES N°06/2026 « RÉALISATION DU NOUVEAU SITE DE LA P",
+      "date": "2026-07-19",
+      "reference": "N°06/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/avis%20de%20d%27offres%20N%C2%B006-2026.pdf",
+      "sourceId": "appel-doffres"
+    },
     {
       "id": "Avis%20de%20prorogation%20%20N%C2%B012-MED-2026_2.pdf",
       "title": "AVIS DE PROROGATION CONSULTATION N°12-MED-2026",
@@ -2058,6 +2067,15 @@
   ],
   "sources": {
     "appel-doffres": [
+      {
+        "id": "avis%20de%20d%27offres%20N%C2%B006-2026.pdf",
+        "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES N°06/2026 « RÉALISATION DU NOUVEAU SITE DE LA P",
+        "date": "2026-07-19",
+        "reference": "N°06/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/avis%20de%20d%27offres%20N%C2%B006-2026.pdf",
+        "sourceId": "appel-doffres"
+      },
       {
         "id": "Avis%20d%E2%80%99appel%20d%E2%80%99offres%20national%20et%20international%20ouvert%20N%C2%B011-2026.pdf",
         "title": "AVIS D’APPEL D’OFFRES NATIONAL ET INTERNATIO",

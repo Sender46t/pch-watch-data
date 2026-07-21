@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-07-21T08:13:11.942Z",
-  "freshCount": 138,
-  "totalCount": 229,
+  "scrapedAt": "2026-07-21T13:23:06.449Z",
+  "freshCount": 136,
+  "totalCount": 230,
   "allItems": [
+    {
+      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B013-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ%20%282%29.pdf",
+      "title": "AVIS DE CONSULTATION N°13-MED-2026 - VERT D'INDOCYANI",
+      "date": "2026-07-21",
+      "reference": "N°13-MED-2026",
+      "produit": "VERT D'INDOCYANI",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B013-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ%20%282%29.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "avis%20de%20d%27offres%20N%C2%B006-2026.pdf",
       "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES N°06/2026 « RÉALISATION DU NOUVEAU SITE DE LA P",
@@ -3486,6 +3495,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "AVIS%20DE%20CONSULTATION%20N%C2%B013-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ%20%282%29.pdf",
+        "title": "AVIS DE CONSULTATION N°13-MED-2026 - VERT D'INDOCYANI",
+        "date": "2026-07-21",
+        "reference": "N°13-MED-2026",
+        "produit": "VERT D'INDOCYANI",
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B013-MED-2026%20-%20VERT%20D%27INDOCYANINE%2025MG-10ML%20SOL%20INJ%20%282%29.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20prorogation%20%20N%C2%B012-MED-2026_2.pdf",
         "title": "AVIS DE PROROGATION CONSULTATION N°12-MED-2026",

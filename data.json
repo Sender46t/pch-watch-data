@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-25T07:55:38.237Z",
-  "freshCount": 68,
+  "scrapedAt": "2026-07-25T13:06:37.773Z",
+  "freshCount": 182,
   "totalCount": 232,
   "allItems": [
     {
@@ -1714,15 +1714,6 @@
       "sourceId": "attribution"
     },
     {
-      "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
-      "title": "AVIS D'ATTRIBUTION PROVISOIRE - CONSULTAT",
-      "date": "2025-03-26",
-      "reference": null,
-      "produit": "CONSULTAT",
-      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Appel%20d%E2%80%99Offres%20National%20Ouvert%20avec%20exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B015%202024_0.pdf",
       "title": "APPEL D’OFFRES NATIONAL OU",
       "date": "2025-03-26",
@@ -1730,6 +1721,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Appel%20d%E2%80%99Offres%20National%20Ouvert%20avec%20exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B015%202024_0.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE - CONSULTAT",
+      "date": "2025-03-26",
+      "reference": null,
+      "produit": "CONSULTAT",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20AONO%2020.2024.pdf",

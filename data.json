@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-07-29T01:56:01.628Z",
-  "freshCount": 116,
+  "scrapedAt": "2026-07-29T08:26:06.128Z",
+  "freshCount": 182,
   "totalCount": 234,
   "allItems": [
     {
@@ -1534,6 +1534,15 @@
       "sourceId": "attribution"
     },
     {
+      "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B011-DM-2025%20KIT%20POUR%20PONCTION%20HEPATIQUE%20G16%2CG18.pdf",
+      "title": "AVIS D'INFRUCTUOSITE CONSULTATION N°",
+      "date": "2025-05-28",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B011-DM-2025%20KIT%20POUR%20PONCTION%20HEPATIQUE%20G16%2CG18.pdf",
+      "sourceId": "infructuosite"
+    },
+    {
       "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B010-DM-2025%20AIGUILLES%20P-PONCTION%20DE%20MOELLE%20G16%203CM%20ET%2015G%205CM.pdf",
       "title": "AVIS D'INFRUCTUO",
       "date": "2025-05-28",
@@ -1567,15 +1576,6 @@
       "reference": null,
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B003-DM-2025%20SONDES%20PROSTATIQUES%20A-B%203VOIES%2050-75ML.pdf",
-      "sourceId": "infructuosite"
-    },
-    {
-      "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B011-DM-2025%20KIT%20POUR%20PONCTION%20HEPATIQUE%20G16%2CG18.pdf",
-      "title": "AVIS D'INFRUCTUOSITE CONSULTATION N°",
-      "date": "2025-05-28",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B011-DM-2025%20KIT%20POUR%20PONCTION%20HEPATIQUE%20G16%2CG18.pdf",
       "sourceId": "infructuosite"
     },
     {
@@ -1705,15 +1705,6 @@
       "sourceId": "appel-doffres"
     },
     {
-      "id": "Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B024-2024%20et%20la%20Liste%20des%20produits%20infructueux.pdf",
-      "title": "AVIS D'ATTRIBUTION PROVISOIRE AONO",
-      "date": "2025-04-17",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B024-2024%20et%20la%20Liste%20des%20produits%20infructueux.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Avis%20d%27appel%20d%27offres%20national%20et%20international%20n%C2%B005-2025.pdf",
       "title": "AVIS D’APPEL D’OFFRES NATIONAL ET INTERNATIONAL OUVERT « FOURNITU",
       "date": "2025-04-17",
@@ -1721,6 +1712,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20d%27appel%20d%27offres%20national%20et%20international%20n%C2%B005-2025.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B024-2024%20et%20la%20Liste%20des%20produits%20infructueux.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE AONO",
+      "date": "2025-04-17",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20AONO%20N%C2%B024-2024%20et%20la%20Liste%20des%20produits%20infructueux.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20relatif%20%C3%A0%20l%27Appel%20d%27Offres%20National%20et%20international%20ouvert%20n%C2%B0182024.pdf",
@@ -1732,15 +1732,6 @@
       "sourceId": "attribution"
     },
     {
-      "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
-      "title": "AVIS D'ATTRIBUTION PROVISOIRE - CONSULTAT",
-      "date": "2025-03-26",
-      "reference": null,
-      "produit": "CONSULTAT",
-      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Appel%20d%E2%80%99Offres%20National%20Ouvert%20avec%20exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B015%202024_0.pdf",
       "title": "APPEL D’OFFRES NATIONAL OU",
       "date": "2025-03-26",
@@ -1748,6 +1739,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Appel%20d%E2%80%99Offres%20National%20Ouvert%20avec%20exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B015%202024_0.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE - CONSULTAT",
+      "date": "2025-03-26",
+      "reference": null,
+      "produit": "CONSULTAT",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27ATTRIBUTION%20PROVISOIRE%20-%20CONSULTATION%20N%C2%B005-MED-25%20-%20MANNITOL%20INJ%2010%25.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20d%27attribution%20provisoire%20AONO%2020.2024.pdf",
@@ -3368,6 +3368,15 @@
         "sourceId": "infructuosite"
       },
       {
+        "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B011-DM-2025%20KIT%20POUR%20PONCTION%20HEPATIQUE%20G16%2CG18.pdf",
+        "title": "AVIS D'INFRUCTUOSITE CONSULTATION N°",
+        "date": "2025-05-28",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B011-DM-2025%20KIT%20POUR%20PONCTION%20HEPATIQUE%20G16%2CG18.pdf",
+        "sourceId": "infructuosite"
+      },
+      {
         "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B010-DM-2025%20AIGUILLES%20P-PONCTION%20DE%20MOELLE%20G16%203CM%20ET%2015G%205CM.pdf",
         "title": "AVIS D'INFRUCTUO",
         "date": "2025-05-28",
@@ -3401,15 +3410,6 @@
         "reference": null,
         "produit": null,
         "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B003-DM-2025%20SONDES%20PROSTATIQUES%20A-B%203VOIES%2050-75ML.pdf",
-        "sourceId": "infructuosite"
-      },
-      {
-        "id": "AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B011-DM-2025%20KIT%20POUR%20PONCTION%20HEPATIQUE%20G16%2CG18.pdf",
-        "title": "AVIS D'INFRUCTUOSITE CONSULTATION N°",
-        "date": "2025-05-28",
-        "reference": null,
-        "produit": null,
-        "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20CONSULTATION%20N%C2%B011-DM-2025%20KIT%20POUR%20PONCTION%20HEPATIQUE%20G16%2CG18.pdf",
         "sourceId": "infructuosite"
       },
       {

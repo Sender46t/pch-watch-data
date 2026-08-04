@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-08-04T01:50:24.737Z",
+  "scrapedAt": "2026-08-04T08:25:04.464Z",
   "freshCount": 182,
-  "totalCount": 235,
+  "totalCount": 236,
   "allItems": [
+    {
+      "id": "scan%20prorogation%20du%20d%C3%A9lai%2006%202026.pdf",
+      "title": "AVIS DE PROROGATION DU DÉLAI DE PRÉPARATION DES OFFRES DE L'AONO AVEC EXIGENCES DE CAPACITE MINIMALES N° 06/2026",
+      "date": "2026-08-04",
+      "reference": "N°AVEC",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/scan%20prorogation%20du%20d%C3%A9lai%2006%202026.pdf",
+      "sourceId": "appel-doffres"
+    },
     {
       "id": "Avis%20d%27appel%20d%27offres%20national%20et%20international%20n%C2%B012-2026%20M%C3%A9dicaments.pdf",
       "title": "AVIS D'APPEL D'OFFRES NATIONAL ET INTERNATIONAL OUVERT « FOURNIT",
@@ -2121,6 +2130,15 @@
   ],
   "sources": {
     "appel-doffres": [
+      {
+        "id": "scan%20prorogation%20du%20d%C3%A9lai%2006%202026.pdf",
+        "title": "AVIS DE PROROGATION DU DÉLAI DE PRÉPARATION DES OFFRES DE L'AONO AVEC EXIGENCES DE CAPACITE MINIMALES N° 06/2026",
+        "date": "2026-08-04",
+        "reference": "N°AVEC",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/scan%20prorogation%20du%20d%C3%A9lai%2006%202026.pdf",
+        "sourceId": "appel-doffres"
+      },
       {
         "id": "Avis%20d%27appel%20d%27offres%20national%20et%20international%20n%C2%B012-2026%20M%C3%A9dicaments.pdf",
         "title": "AVIS D'APPEL D'OFFRES NATIONAL ET INTERNATIONAL OUVERT « FOURNIT",

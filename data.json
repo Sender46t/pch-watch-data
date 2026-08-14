@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-13T18:53:36.456Z",
-  "freshCount": 171,
+  "scrapedAt": "2026-08-14T01:16:39.437Z",
+  "freshCount": 182,
   "totalCount": 240,
   "allItems": [
     {
@@ -526,6 +526,15 @@
       "sourceId": "consultations"
     },
     {
+      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML%20%281%29.pdf",
+      "title": "AVIS DE CONSULTATION N°05-MED-2026 - TRIOXYD",
+      "date": "2026-03-01",
+      "reference": "N°05-MED-2026",
+      "produit": "TRIOXYD",
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML%20%281%29.pdf",
+      "sourceId": "consultations"
+    },
+    {
       "id": "AVIS%20DE%20CONSULTATION%20N%C2%B004-DM-2026%20DRAIN%20DE%20KHER%20LATEX.pdf",
       "title": "AVIS DE CONSULTATION N°04-DM-2026 DRAIN DE KHER LATEX",
       "date": "2026-03-01",
@@ -559,15 +568,6 @@
       "reference": "N°01-DM-2026",
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B001-DM-2026%20NECESSAIRE%20P-ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.pdf",
-      "sourceId": "consultations"
-    },
-    {
-      "id": "AVIS%20DE%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML%20%281%29.pdf",
-      "title": "AVIS DE CONSULTATION N°05-MED-2026 - TRIOXYD",
-      "date": "2026-03-01",
-      "reference": "N°05-MED-2026",
-      "produit": "TRIOXYD",
-      "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML%20%281%29.pdf",
       "sourceId": "consultations"
     },
     {
@@ -3910,6 +3910,15 @@
         "sourceId": "consultations"
       },
       {
+        "id": "AVIS%20DE%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML%20%281%29.pdf",
+        "title": "AVIS DE CONSULTATION N°05-MED-2026 - TRIOXYD",
+        "date": "2026-03-01",
+        "reference": "N°05-MED-2026",
+        "produit": "TRIOXYD",
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML%20%281%29.pdf",
+        "sourceId": "consultations"
+      },
+      {
         "id": "AVIS%20DE%20CONSULTATION%20N%C2%B004-DM-2026%20DRAIN%20DE%20KHER%20LATEX.pdf",
         "title": "AVIS DE CONSULTATION N°04-DM-2026 DRAIN DE KHER LATEX",
         "date": "2026-03-01",
@@ -3943,15 +3952,6 @@
         "reference": "N°01-DM-2026",
         "produit": null,
         "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B001-DM-2026%20NECESSAIRE%20P-ANESTHESIE%20PERIDURALE%20PEDIATRIQUE.pdf",
-        "sourceId": "consultations"
-      },
-      {
-        "id": "AVIS%20DE%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML%20%281%29.pdf",
-        "title": "AVIS DE CONSULTATION N°05-MED-2026 - TRIOXYD",
-        "date": "2026-03-01",
-        "reference": "N°05-MED-2026",
-        "produit": "TRIOXYD",
-        "url": "https://www.pch.dz/sites/default/files/AVIS%20DE%20CONSULTATION%20N%C2%B005-MED-2026%20-%20TRIOXYDE%20D%27ARSENIC%20INJ%201MG-ML%20%281%29.pdf",
         "sourceId": "consultations"
       },
       {

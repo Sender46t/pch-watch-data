@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-08-16T12:23:22.523Z",
+  "scrapedAt": "2026-08-16T18:17:42.082Z",
   "freshCount": 182,
-  "totalCount": 240,
+  "totalCount": 241,
   "allItems": [
+    {
+      "id": "Prorogation%20AONO%20102026.pdf",
+      "title": "ADDITIF N°01 AONO AVEC EXIGENCE DE CAPACITES MINIMALES N10/2026",
+      "date": "2026-08-16",
+      "reference": "N°01",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Prorogation%20AONO%20102026.pdf",
+      "sourceId": "appel-doffres"
+    },
     {
       "id": "Avis%20de%20consltation%2014%20MED%202026.pdf",
       "title": "CONSULTATION 14 MED 2026",
@@ -2166,6 +2175,15 @@
   ],
   "sources": {
     "appel-doffres": [
+      {
+        "id": "Prorogation%20AONO%20102026.pdf",
+        "title": "ADDITIF N°01 AONO AVEC EXIGENCE DE CAPACITES MINIMALES N10/2026",
+        "date": "2026-08-16",
+        "reference": "N°01",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Prorogation%20AONO%20102026.pdf",
+        "sourceId": "appel-doffres"
+      },
       {
         "id": "Avis%20de%20prorogation%20de%20l%27appel%20d%27offres%206-2026.pdf",
         "title": "AVIS DE PROROGATION DU DÉLAI DE PRÉPARATION DES OFFRES DE L'APPEL D'OFFRES NATIONAL OUVERT AVEC EXI",

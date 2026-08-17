@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-08-17T06:37:56.308Z",
+  "scrapedAt": "2026-08-17T12:27:46.179Z",
   "freshCount": 182,
-  "totalCount": 241,
+  "totalCount": 242,
   "allItems": [
+    {
+      "id": "AONO%20142026%20DM.pdf",
+      "title": "AVIS D'APPEL D'OFFRE NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE LES PRODUITS SOIENT DE FABRICATION NATIONALE AONO14/2026",
+      "date": "2026-08-17",
+      "reference": "N°14/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AONO%20142026%20DM.pdf",
+      "sourceId": "appel-doffres"
+    },
     {
       "id": "Prorogation%20AONO%20102026.pdf",
       "title": "ADDITIF N°01 AONO AVEC EXIGENCE DE CAPACITES MINIMALES N10/2026",
@@ -2175,6 +2184,15 @@
   ],
   "sources": {
     "appel-doffres": [
+      {
+        "id": "AONO%20142026%20DM.pdf",
+        "title": "AVIS D'APPEL D'OFFRE NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE LES PRODUITS SOIENT DE FABRICATION NATIONALE AONO14/2026",
+        "date": "2026-08-17",
+        "reference": "N°14/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AONO%20142026%20DM.pdf",
+        "sourceId": "appel-doffres"
+      },
       {
         "id": "Prorogation%20AONO%20102026.pdf",
         "title": "ADDITIF N°01 AONO AVEC EXIGENCE DE CAPACITES MINIMALES N10/2026",

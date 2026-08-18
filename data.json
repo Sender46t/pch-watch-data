@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-08-18T06:29:23.651Z",
+  "scrapedAt": "2026-08-18T12:29:35.194Z",
   "freshCount": 181,
-  "totalCount": 242,
+  "totalCount": 243,
   "allItems": [
+    {
+      "id": "Avis%20d%27attribution%20de%20l%27AONIO%20N%C2%B007-2026%20M%C3%A9dicaments.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO 07/2026 « MEDICAMENTS »",
+      "date": "2026-08-18",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20de%20l%27AONIO%20N%C2%B007-2026%20M%C3%A9dicaments.pdf",
+      "sourceId": "attribution"
+    },
     {
       "id": "AONO%20142026%20DM.pdf",
       "title": "AVIS D'APPEL D'OFFRE NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE LES PRODUITS SOIENT DE FABRICATION NATIONALE AONO14/2026",
@@ -2681,6 +2690,15 @@
       }
     ],
     "attribution": [
+      {
+        "id": "Avis%20d%27attribution%20de%20l%27AONIO%20N%C2%B007-2026%20M%C3%A9dicaments.pdf",
+        "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO 07/2026 « MEDICAMENTS »",
+        "date": "2026-08-18",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20de%20l%27AONIO%20N%C2%B007-2026%20M%C3%A9dicaments.pdf",
+        "sourceId": "attribution"
+      },
       {
         "id": "Avis%20d%27attribution%20apr%C3%A8s%20l%27annulation%20de%20l%27attribution%20des%20lots%2001%2002%20et%2086%20de%20l%27AONO%20N%C2%B014-2025%20DM.pdf",
         "title": "AVIS D’ATTRIBUT",

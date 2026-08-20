@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-08-20T12:32:10.743Z",
+  "scrapedAt": "2026-08-20T18:27:13.086Z",
   "freshCount": 181,
-  "totalCount": 245,
+  "totalCount": 246,
   "allItems": [
     {
       "id": "scan%20attribution%2013%202026%20m%C3%A9dicaments.pdf",
@@ -11,6 +11,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/scan%20attribution%2013%202026%20m%C3%A9dicaments.pdf",
       "sourceId": "attribution"
+    },
+    {
+      "id": "Attribution%20provisoire%20de%20la%20consultation%2013%20MED%202026.pdf",
+      "title": "ATTRIBUTION PROVISOIRE DE LA CONSULTATION 13 MED 2026",
+      "date": "2026-08-20",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Attribution%20provisoire%20de%20la%20consultation%2013%20MED%202026.pdf",
+      "sourceId": "consultations"
     },
     {
       "id": "Consultation%20N03DMLPCH2026.pdf",
@@ -3729,6 +3738,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Attribution%20provisoire%20de%20la%20consultation%2013%20MED%202026.pdf",
+        "title": "ATTRIBUTION PROVISOIRE DE LA CONSULTATION 13 MED 2026",
+        "date": "2026-08-20",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Attribution%20provisoire%20de%20la%20consultation%2013%20MED%202026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Consultation%20N03DMLPCH2026.pdf",
         "title": "AVIS DE CONSULTATION N°03/DML/PCH/2026",

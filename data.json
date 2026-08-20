@@ -1,8 +1,26 @@
 {
-  "scrapedAt": "2026-08-20T06:32:43.983Z",
+  "scrapedAt": "2026-08-20T12:32:10.743Z",
   "freshCount": 181,
-  "totalCount": 243,
+  "totalCount": 245,
   "allItems": [
+    {
+      "id": "scan%20attribution%2013%202026%20m%C3%A9dicaments.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO 13/2026 « MÉDICAMENTS »",
+      "date": "2026-08-20",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/scan%20attribution%2013%202026%20m%C3%A9dicaments.pdf",
+      "sourceId": "attribution"
+    },
+    {
+      "id": "Consultation%20N03DMLPCH2026.pdf",
+      "title": "AVIS DE CONSULTATION N°03/DML/PCH/2026",
+      "date": "2026-08-20",
+      "reference": "N°03/DML/PCH/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Consultation%20N03DMLPCH2026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20d%27attribution%20de%20l%27AONIO%20N%C2%B007-2026%20M%C3%A9dicaments.pdf",
       "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO 07/2026 « MEDICAMENTS »",
@@ -2691,6 +2709,15 @@
     ],
     "attribution": [
       {
+        "id": "scan%20attribution%2013%202026%20m%C3%A9dicaments.pdf",
+        "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO 13/2026 « MÉDICAMENTS »",
+        "date": "2026-08-20",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/scan%20attribution%2013%202026%20m%C3%A9dicaments.pdf",
+        "sourceId": "attribution"
+      },
+      {
         "id": "Avis%20d%27attribution%20de%20l%27AONIO%20N%C2%B007-2026%20M%C3%A9dicaments.pdf",
         "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO 07/2026 « MEDICAMENTS »",
         "date": "2026-08-18",
@@ -3702,6 +3729,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Consultation%20N03DMLPCH2026.pdf",
+        "title": "AVIS DE CONSULTATION N°03/DML/PCH/2026",
+        "date": "2026-08-20",
+        "reference": "N°03/DML/PCH/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Consultation%20N03DMLPCH2026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20consltation%2014%20MED%202026.pdf",
         "title": "CONSULTATION 14 MED 2026",

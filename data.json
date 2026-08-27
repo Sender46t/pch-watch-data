@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-08-27T06:28:24.166Z",
+  "scrapedAt": "2026-08-27T21:31:56.698Z",
   "freshCount": 181,
-  "totalCount": 247,
+  "totalCount": 248,
   "allItems": [
+    {
+      "id": "Avis%20de%20prorogation%20consultation%2014%20MED%202026.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION 14 MED 2026",
+      "date": "2026-08-27",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20consultation%2014%20MED%202026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20de%20prorogation%2012%202026.pdf",
       "title": "AVIS DE PROROGATION DU DÉLAI DE PRÉPARATION DES OFFRES D'AONIO N°12/2026",
@@ -3756,6 +3765,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20prorogation%20consultation%2014%20MED%202026.pdf",
+        "title": "AVIS DE PROROGATION CONSULTATION 14 MED 2026",
+        "date": "2026-08-27",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20consultation%2014%20MED%202026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Attribution%20provisoire%20de%20la%20consultation%2013%20MED%202026.pdf",
         "title": "ATTRIBUTION PROVISOIRE DE LA CONSULTATION 13 MED 2026",

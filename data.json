@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-09-01T10:53:52.993Z",
+  "scrapedAt": "2026-09-01T15:51:40.306Z",
   "freshCount": 181,
-  "totalCount": 248,
+  "totalCount": 249,
   "allItems": [
+    {
+      "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B014-MED-2026_0.pdf",
+      "title": "AVIS DE PROROGATION CONSULTATION N°14-MED-2026",
+      "date": "2026-09-01",
+      "reference": "N°14-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B014-MED-2026_0.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20de%20prorogation%20consultation%2014%20MED%202026.pdf",
       "title": "AVIS DE PROROGATION CONSULTATION 14 MED 2026",
@@ -3765,6 +3774,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B014-MED-2026_0.pdf",
+        "title": "AVIS DE PROROGATION CONSULTATION N°14-MED-2026",
+        "date": "2026-09-01",
+        "reference": "N°14-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20Consultation%20N%C2%B014-MED-2026_0.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20prorogation%20consultation%2014%20MED%202026.pdf",
         "title": "AVIS DE PROROGATION CONSULTATION 14 MED 2026",

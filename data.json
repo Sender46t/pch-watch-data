@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-09-02T10:19:21.980Z",
+  "scrapedAt": "2026-09-02T15:44:16.259Z",
   "freshCount": 181,
-  "totalCount": 249,
+  "totalCount": 250,
   "allItems": [
+    {
+      "id": "Avis%20de%20prorogation%20de%20la%20consultation%20N%2004%20DML.pdf",
+      "title": "AVIS DE PROROGATION DES OFFRES DE LA CONSULTATION N°04/DML/DG/PCH/2026",
+      "date": "2026-09-02",
+      "reference": "N°04/DML/DG/PCH/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20de%20la%20consultation%20N%2004%20DML.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B014-MED-2026_0.pdf",
       "title": "AVIS DE PROROGATION CONSULTATION N°14-MED-2026",
@@ -3774,6 +3783,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20prorogation%20de%20la%20consultation%20N%2004%20DML.pdf",
+        "title": "AVIS DE PROROGATION DES OFFRES DE LA CONSULTATION N°04/DML/DG/PCH/2026",
+        "date": "2026-09-02",
+        "reference": "N°04/DML/DG/PCH/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20de%20la%20consultation%20N%2004%20DML.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20prorogation%20Consultation%20N%C2%B014-MED-2026_0.pdf",
         "title": "AVIS DE PROROGATION CONSULTATION N°14-MED-2026",

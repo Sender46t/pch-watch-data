@@ -1,8 +1,26 @@
 {
-  "scrapedAt": "2026-09-03T02:22:44.049Z",
-  "freshCount": 181,
-  "totalCount": 250,
+  "scrapedAt": "2026-09-03T10:29:05.572Z",
+  "freshCount": 182,
+  "totalCount": 252,
   "allItems": [
+    {
+      "id": "Avis%20de%20Prorogation%20du%20d%C3%A9lai%20de%20preparation%20des%20offres%20de%20L%27AONIO%20122026.pdf",
+      "title": "AVIS DE PROROGATION DU DÉLAI DE PREPARATION DES OFFRES DE L'",
+      "date": "2026-09-03",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Prorogation%20du%20d%C3%A9lai%20de%20preparation%20des%20offres%20de%20L%27AONIO%20122026.pdf",
+      "sourceId": "appel-doffres"
+    },
+    {
+      "id": "Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO N11/2026",
+      "date": "2026-09-03",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
+      "sourceId": "attribution"
+    },
     {
       "id": "Avis%20de%20prorogation%20de%20la%20consultation%20N%2004%20DML.pdf",
       "title": "AVIS DE PROROGATION DES OFFRES DE LA CONSULTATION N°04/DML/DG/PCH/2026",
@@ -2257,6 +2275,15 @@
   "sources": {
     "appel-doffres": [
       {
+        "id": "Avis%20de%20Prorogation%20du%20d%C3%A9lai%20de%20preparation%20des%20offres%20de%20L%27AONIO%20122026.pdf",
+        "title": "AVIS DE PROROGATION DU DÉLAI DE PREPARATION DES OFFRES DE L'",
+        "date": "2026-09-03",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Prorogation%20du%20d%C3%A9lai%20de%20preparation%20des%20offres%20de%20L%27AONIO%20122026.pdf",
+        "sourceId": "appel-doffres"
+      },
+      {
         "id": "Avis%20de%20prorogation%2012%202026.pdf",
         "title": "AVIS DE PROROGATION DU DÉLAI DE PRÉPARATION DES OFFRES D'AONIO N°12/2026",
         "date": "2026-08-23",
@@ -2762,6 +2789,15 @@
       }
     ],
     "attribution": [
+      {
+        "id": "Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
+        "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO N11/2026",
+        "date": "2026-09-03",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
+        "sourceId": "attribution"
+      },
       {
         "id": "scan%20attribution%2013%202026%20m%C3%A9dicaments.pdf",
         "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO 13/2026 « MÉDICAMENTS »",

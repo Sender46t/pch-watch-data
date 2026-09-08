@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-09-08T10:22:38.645Z",
+  "scrapedAt": "2026-09-08T15:46:02.650Z",
   "freshCount": 182,
-  "totalCount": 252,
+  "totalCount": 253,
   "allItems": [
+    {
+      "id": "AVIS%20ADDITIF_0.pdf",
+      "title": "ADDITIF N°01 SUR LA CONSULTATION N°01/DML/DG/PCH/2026",
+      "date": "2026-09-08",
+      "reference": "N°01",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20ADDITIF_0.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20de%20Prorogation%20du%20d%C3%A9lai%20de%20preparation%20des%20offres%20de%20L%27AONIO%20122026.pdf",
       "title": "AVIS DE PROROGATION DU DÉLAI DE PREPARATION DES OFFRES DE L'",
@@ -3819,6 +3828,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "AVIS%20ADDITIF_0.pdf",
+        "title": "ADDITIF N°01 SUR LA CONSULTATION N°01/DML/DG/PCH/2026",
+        "date": "2026-09-08",
+        "reference": "N°01",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20ADDITIF_0.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20prorogation%20de%20la%20consultation%20N%2004%20DML.pdf",
         "title": "AVIS DE PROROGATION DES OFFRES DE LA CONSULTATION N°04/DML/DG/PCH/2026",

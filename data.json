@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-09-10T10:20:50.885Z",
+  "scrapedAt": "2026-09-10T15:36:40.797Z",
   "freshCount": 182,
-  "totalCount": 253,
+  "totalCount": 254,
   "allItems": [
+    {
+      "id": "AVIS%20ADDITIF_0.pdf",
+      "title": "ADDITIF N°01 SUR LA CONSULTATION N°04/DML/DG/PCH/2026",
+      "date": "2026-09-08",
+      "reference": "N°01",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20ADDITIF_0.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "AVIS%20ADDITIF_0.pdf",
       "title": "ADDITIF N°01 SUR LA CONSULTATION N°01/DML/DG/PCH/2026",
@@ -3828,6 +3837,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "AVIS%20ADDITIF_0.pdf",
+        "title": "ADDITIF N°01 SUR LA CONSULTATION N°04/DML/DG/PCH/2026",
+        "date": "2026-09-08",
+        "reference": "N°01",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20ADDITIF_0.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "AVIS%20ADDITIF_0.pdf",
         "title": "ADDITIF N°01 SUR LA CONSULTATION N°01/DML/DG/PCH/2026",

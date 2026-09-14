@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-09-14T11:22:59.959Z",
+  "scrapedAt": "2026-09-14T17:20:53.926Z",
   "freshCount": 182,
-  "totalCount": 254,
+  "totalCount": 255,
   "allItems": [
+    {
+      "id": "avis%20d%27Infructuosit%C3%A9%20Consultation%20N%C2%B014-MED-2026.pdf",
+      "title": "AVIS D'INFRUCTUOSITÉ CONSULTATION N°14-MED-2026",
+      "date": "2026-09-14",
+      "reference": "N°14-MED-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/avis%20d%27Infructuosit%C3%A9%20Consultation%20N%C2%B014-MED-2026.pdf",
+      "sourceId": "infructuosite"
+    },
     {
       "id": "AVIS%20ADDITIF_0.pdf",
       "title": "ADDITIF N°01 SUR LA CONSULTATION N°04/DML/DG/PCH/2026",
@@ -3295,6 +3304,15 @@
       }
     ],
     "infructuosite": [
+      {
+        "id": "avis%20d%27Infructuosit%C3%A9%20Consultation%20N%C2%B014-MED-2026.pdf",
+        "title": "AVIS D'INFRUCTUOSITÉ CONSULTATION N°14-MED-2026",
+        "date": "2026-09-14",
+        "reference": "N°14-MED-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/avis%20d%27Infructuosit%C3%A9%20Consultation%20N%C2%B014-MED-2026.pdf",
+        "sourceId": "infructuosite"
+      },
       {
         "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B012-MED-2026%20-THIOPENTAL%20SODIQUE%20INJ%20500MG%20%26%201G.pdf",
         "title": "AVIS D&#039;INFRUCTUOSITE - CONSULTATION N°12-MED-2026 -THIOPENTAL SODIQUE INJ 500MG &AMP; 1G.PDF",

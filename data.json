@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-10-04T03:39:06.256Z",
-  "freshCount": 182,
-  "totalCount": 255,
+  "scrapedAt": "2026-10-04T11:36:53.513Z",
+  "freshCount": 183,
+  "totalCount": 256,
   "allItems": [
+    {
+      "id": "Avis%20de%20Consultation%20N%C2%B002-DML-DG-PCH-2026_2.pdf",
+      "title": "AVIS DE CONSULTATION N°02/DML/DG/PCH/2026",
+      "date": "2026-10-04",
+      "reference": "N°02/DML/DG/PCH/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Consultation%20N%C2%B002-DML-DG-PCH-2026_2.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "avis%20d%27Infructuosit%C3%A9%20Consultation%20N%C2%B014-MED-2026.pdf",
       "title": "AVIS D'INFRUCTUOSITÉ CONSULTATION N°14-MED-2026",
@@ -3855,6 +3864,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20Consultation%20N%C2%B002-DML-DG-PCH-2026_2.pdf",
+        "title": "AVIS DE CONSULTATION N°02/DML/DG/PCH/2026",
+        "date": "2026-10-04",
+        "reference": "N°02/DML/DG/PCH/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Consultation%20N%C2%B002-DML-DG-PCH-2026_2.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "AVIS%20ADDITIF_0.pdf",
         "title": "ADDITIF N°01 SUR LA CONSULTATION N°04/DML/DG/PCH/2026",

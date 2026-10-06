@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-10-06T12:31:58.812Z",
+  "scrapedAt": "2026-10-06T22:05:32.950Z",
   "freshCount": 183,
-  "totalCount": 256,
+  "totalCount": 257,
   "allItems": [
+    {
+      "id": "Avais%20d%27attribution%20%20Consultation%2003-DML-PCH-2026.PDF",
+      "title": "AVAIS D'ATTRIBUTION CONSULTATION 03/DML/PCH/2026",
+      "date": "2026-10-06",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avais%20d%27attribution%20%20Consultation%2003-DML-PCH-2026.PDF",
+      "sourceId": "attribution"
+    },
     {
       "id": "Avis%20de%20Consultation%20N%C2%B002-DML-DG-PCH-2026_2.pdf",
       "title": "AVIS DE CONSULTATION N°02/DML/DG/PCH/2026",
@@ -2825,6 +2834,15 @@
       }
     ],
     "attribution": [
+      {
+        "id": "Avais%20d%27attribution%20%20Consultation%2003-DML-PCH-2026.PDF",
+        "title": "AVAIS D'ATTRIBUTION CONSULTATION 03/DML/PCH/2026",
+        "date": "2026-10-06",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avais%20d%27attribution%20%20Consultation%2003-DML-PCH-2026.PDF",
+        "sourceId": "attribution"
+      },
       {
         "id": "Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
         "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO N11/2026",

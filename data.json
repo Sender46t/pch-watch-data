@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-10-08T12:35:07.614Z",
-  "freshCount": 183,
-  "totalCount": 257,
+  "scrapedAt": "2026-10-08T22:43:01.101Z",
+  "freshCount": 184,
+  "totalCount": 258,
   "allItems": [
+    {
+      "id": "Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
+      "title": "AVIS D'ATTRIBUTION DE LA CONSULTATION N°04/DML/DG/PCH/2026",
+      "date": "2026-10-08",
+      "reference": "N°04/DML/DG/PCH/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
+      "sourceId": "attribution"
+    },
     {
       "id": "Avais%20d%27attribution%20%20Consultation%2003-DML-PCH-2026.PDF",
       "title": "AVAIS D'ATTRIBUTION CONSULTATION 03/DML/PCH/2026",
@@ -2834,6 +2843,15 @@
       }
     ],
     "attribution": [
+      {
+        "id": "Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
+        "title": "AVIS D'ATTRIBUTION DE LA CONSULTATION N°04/DML/DG/PCH/2026",
+        "date": "2026-10-08",
+        "reference": "N°04/DML/DG/PCH/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
+        "sourceId": "attribution"
+      },
       {
         "id": "Avais%20d%27attribution%20%20Consultation%2003-DML-PCH-2026.PDF",
         "title": "AVAIS D'ATTRIBUTION CONSULTATION 03/DML/PCH/2026",

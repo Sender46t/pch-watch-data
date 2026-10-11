@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-10-11T03:14:04.844Z",
+  "scrapedAt": "2026-10-11T11:54:26.445Z",
   "freshCount": 184,
-  "totalCount": 258,
+  "totalCount": 259,
   "allItems": [
+    {
+      "id": "Avis%20d%27attribution%20apr%C3%A8s%20recours%20de%20l%27appel%20d%27offre%20National%20et%20International%20Ouvre%20N%C2%B011-2026.pdf",
+      "title": "AVIS D'ATTRIBUTION APRÈS RECOU",
+      "date": "2026-10-11",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20apr%C3%A8s%20recours%20de%20l%27appel%20d%27offre%20National%20et%20International%20Ouvre%20N%C2%B011-2026.pdf",
+      "sourceId": "attribution"
+    },
     {
       "id": "Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
       "title": "AVIS D'ATTRIBUTION DE LA CONSULTATION N°04/DML/DG/PCH/2026",
@@ -2843,6 +2852,15 @@
       }
     ],
     "attribution": [
+      {
+        "id": "Avis%20d%27attribution%20apr%C3%A8s%20recours%20de%20l%27appel%20d%27offre%20National%20et%20International%20Ouvre%20N%C2%B011-2026.pdf",
+        "title": "AVIS D'ATTRIBUTION APRÈS RECOU",
+        "date": "2026-10-11",
+        "reference": null,
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20apr%C3%A8s%20recours%20de%20l%27appel%20d%27offre%20National%20et%20International%20Ouvre%20N%C2%B011-2026.pdf",
+        "sourceId": "attribution"
+      },
       {
         "id": "Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
         "title": "AVIS D'ATTRIBUTION DE LA CONSULTATION N°04/DML/DG/PCH/2026",

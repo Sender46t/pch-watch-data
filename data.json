@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-12T14:04:06.875Z",
-  "freshCount": 122,
+  "scrapedAt": "2026-10-13T00:00:15.970Z",
+  "freshCount": 185,
   "totalCount": 261,
   "allItems": [
     {
@@ -1048,15 +1048,6 @@
       "sourceId": "appel-doffres"
     },
     {
-      "id": "Avis%20d%27infructuosit%C3%A9%20%20%20Consultation%2027%20%20MED%202025.pdf",
-      "title": "AVIS D’INFRUCTUOSITÉ CONSULTATION 27 MED 2025",
-      "date": "2025-11-10",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20%20%20Consultation%2027%20%20MED%202025.pdf",
-      "sourceId": "infructuosite"
-    },
-    {
       "id": "Avis%20de%20l%27AONO%20N%C2%B013-2025%20Reactifs_0.pdf",
       "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT AVEC EXIGENCE DE CAPACITÉS MINIMALES QUE LES PRODUITS S",
       "date": "2025-11-10",
@@ -1064,6 +1055,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20l%27AONO%20N%C2%B013-2025%20Reactifs_0.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "Avis%20d%27infructuosit%C3%A9%20%20%20Consultation%2027%20%20MED%202025.pdf",
+      "title": "AVIS D’INFRUCTUOSITÉ CONSULTATION 27 MED 2025",
+      "date": "2025-11-10",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20%20%20Consultation%2027%20%20MED%202025.pdf",
+      "sourceId": "infructuosite"
     },
     {
       "id": "Avis%20d%27appel%20d%27offres%20national%20n%C2%B014-2025%20DM.pdf",

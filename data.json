@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-13T06:18:36.616Z",
-  "freshCount": 19,
+  "scrapedAt": "2026-10-13T18:43:23.373Z",
+  "freshCount": 185,
   "totalCount": 261,
   "allItems": [
     {
@@ -85,15 +85,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
-      "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO N11/2026",
-      "date": "2026-09-03",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Avis%20de%20Prorogation%20du%20d%C3%A9lai%20de%20preparation%20des%20offres%20de%20L%27AONIO%20122026.pdf",
       "title": "AVIS DE PROROGATION DU DÉLAI DE PREPARATION DES OFFRES DE L'",
       "date": "2026-09-03",
@@ -101,6 +92,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Prorogation%20du%20d%C3%A9lai%20de%20preparation%20des%20offres%20de%20L%27AONIO%20122026.pdf",
       "sourceId": "appel-doffres"
+    },
+    {
+      "id": "Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
+      "title": "AVIS D'ATTRIBUTION PROVISOIRE DE L'AONIO N11/2026",
+      "date": "2026-09-03",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20AONIO112026.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20de%20prorogation%20de%20la%20consultation%20N%2004%20DML.pdf",

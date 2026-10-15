@@ -1,8 +1,17 @@
 {
-  "scrapedAt": "2026-10-15T10:38:52.589Z",
+  "scrapedAt": "2026-10-15T16:03:39.492Z",
   "freshCount": 185,
-  "totalCount": 261,
+  "totalCount": 262,
   "allItems": [
+    {
+      "id": "Avis%20de%20consultation%20N%C2%B0%2015-MED-2026.pdf",
+      "title": "AVIS DE CONSULTATION CONSULTATION N° 15/MED/2026",
+      "date": "2026-10-15",
+      "reference": "N°15/MED/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20N%C2%B0%2015-MED-2026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20%20d%27Appel%20d%27Offres%20National%20Ouvert%20Avec%20Exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B005-2026_0.pdf",
       "title": "AVIS D'APPEL D'OFFRES NATIONAL OUVERT",
@@ -3954,6 +3963,15 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20consultation%20N%C2%B0%2015-MED-2026.pdf",
+        "title": "AVIS DE CONSULTATION CONSULTATION N° 15/MED/2026",
+        "date": "2026-10-15",
+        "reference": "N°15/MED/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultation%20N%C2%B0%2015-MED-2026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20Consultation%20N%C2%B002-DML-DG-PCH-2026_2.pdf",
         "title": "AVIS DE CONSULTATION N°02/DML/DG/PCH/2026",

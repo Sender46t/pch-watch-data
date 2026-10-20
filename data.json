@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-10-20T10:45:44.678Z",
-  "freshCount": 108,
-  "totalCount": 265,
+  "scrapedAt": "2026-10-20T16:07:41.693Z",
+  "freshCount": 185,
+  "totalCount": 266,
   "allItems": [
     {
       "id": "Avis%20d%27Appel%20d%27Offres%20National%20Ouvert%20avec%20exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B016-2026.pdf",
@@ -13,13 +13,13 @@
       "sourceId": "appel-doffres"
     },
     {
-      "id": "Consultation%20N%C2%B0%2004-DML-DG-PCH-2026.pdf",
-      "title": "CONSULTATION N° 04/DML/DG/PCH/2026",
+      "id": "correction%20Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
+      "title": "CORRECTION AVIS D'ATTRIBUTION DE LA CONSULTATION N°04-DML-DG-PCH-2026",
       "date": "2026-10-19",
-      "reference": "N°04/DML/DG/PCH/2026",
+      "reference": "N°04-DML-DG-PCH-2026",
       "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Consultation%20N%C2%B0%2004-DML-DG-PCH-2026.pdf",
-      "sourceId": "consultations"
+      "url": "https://www.pch.dz/sites/default/files/correction%20Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "Avis%20de%20consultaton%20N%C2%B001-PCH-AO-2026.pdf",
@@ -28,6 +28,15 @@
       "reference": "N°01-PCH-AO-2026",
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultaton%20N%C2%B001-PCH-AO-2026.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "Consultation%20N%C2%B0%2004-DML-DG-PCH-2026.pdf",
+      "title": "CONSULTATION N° 04/DML/DG/PCH/2026",
+      "date": "2026-10-19",
+      "reference": "N°04/DML/DG/PCH/2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Consultation%20N%C2%B0%2004-DML-DG-PCH-2026.pdf",
       "sourceId": "consultations"
     },
     {
@@ -2925,6 +2934,15 @@
     ],
     "attribution": [
       {
+        "id": "correction%20Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
+        "title": "CORRECTION AVIS D'ATTRIBUTION DE LA CONSULTATION N°04-DML-DG-PCH-2026",
+        "date": "2026-10-19",
+        "reference": "N°04-DML-DG-PCH-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/correction%20Avis%20d%27attribution%20de%20la%20consultation%20N%C2%B004-DML-DG-PCH-2026.pdf",
+        "sourceId": "attribution"
+      },
+      {
         "id": "Avis%20d%27attribution%20apr%C3%A8s%20recours%20de%20l%27appel%20d%27offre%20National%20et%20International%20Ouvre%20N%C2%B011-2026.pdf",
         "title": "AVIS D'ATTRIBUTION APRÈS RECOU",
         "date": "2026-10-11",
@@ -4000,21 +4018,21 @@
     ],
     "consultations": [
       {
-        "id": "Consultation%20N%C2%B0%2004-DML-DG-PCH-2026.pdf",
-        "title": "CONSULTATION N° 04/DML/DG/PCH/2026",
-        "date": "2026-10-19",
-        "reference": "N°04/DML/DG/PCH/2026",
-        "produit": null,
-        "url": "https://www.pch.dz/sites/default/files/Consultation%20N%C2%B0%2004-DML-DG-PCH-2026.pdf",
-        "sourceId": "consultations"
-      },
-      {
         "id": "Avis%20de%20consultaton%20N%C2%B001-PCH-AO-2026.pdf",
         "title": "AVIS DE CONSULTATON N°01-PCH-AO-2026",
         "date": "2026-10-19",
         "reference": "N°01-PCH-AO-2026",
         "produit": null,
         "url": "https://www.pch.dz/sites/default/files/Avis%20de%20consultaton%20N%C2%B001-PCH-AO-2026.pdf",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "Consultation%20N%C2%B0%2004-DML-DG-PCH-2026.pdf",
+        "title": "CONSULTATION N° 04/DML/DG/PCH/2026",
+        "date": "2026-10-19",
+        "reference": "N°04/DML/DG/PCH/2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Consultation%20N%C2%B0%2004-DML-DG-PCH-2026.pdf",
         "sourceId": "consultations"
       },
       {

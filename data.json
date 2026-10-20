@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-19T18:06:04.395Z",
-  "freshCount": 157,
+  "scrapedAt": "2026-10-20T02:52:14.231Z",
+  "freshCount": 158,
   "totalCount": 265,
   "allItems": [
     {
@@ -985,15 +985,6 @@
       "sourceId": "infructuosite"
     },
     {
-      "id": "Avis%20d%27attribution%20provisoire%20Consultattion%2030MED%202025.pdf",
-      "title": "AVIS D’ATTRIBUTION PROVISOIRE CONSULTATION 30 MED 2025",
-      "date": "2025-12-14",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20Consultattion%2030MED%202025.pdf",
-      "sourceId": "attribution"
-    },
-    {
       "id": "Avis%20d%27infructuosit%C3%A9%20Consultation%20N19-DM-2025.pdf",
       "title": "AVIS D’INFRUCTUOSITÉ CONSULTATION N°19/DM/2025",
       "date": "2025-12-14",
@@ -1001,6 +992,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20d%27infructuosit%C3%A9%20Consultation%20N19-DM-2025.pdf",
       "sourceId": "infructuosite"
+    },
+    {
+      "id": "Avis%20d%27attribution%20provisoire%20Consultattion%2030MED%202025.pdf",
+      "title": "AVIS D’ATTRIBUTION PROVISOIRE CONSULTATION 30 MED 2025",
+      "date": "2025-12-14",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20d%27attribution%20provisoire%20Consultattion%2030MED%202025.pdf",
+      "sourceId": "attribution"
     },
     {
       "id": "AVIS%20D%27ANNULATION%20DE%20L%27ATTRIBUTION%20PROVISOIRE%20DES%20POSTES%20DE%20L%27AONIO%2011-2025%20DM.pdf",

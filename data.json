@@ -1,8 +1,26 @@
 {
-  "scrapedAt": "2026-10-21T02:46:13.242Z",
+  "scrapedAt": "2026-10-21T10:56:35.525Z",
   "freshCount": 185,
-  "totalCount": 266,
+  "totalCount": 268,
   "allItems": [
+    {
+      "id": "Avis%20de%20Consultation%20N%C2%B001-PCH-AO-2026.pdf",
+      "title": "AVIS DE CONSULTATION N°01-PCH-AO-2026",
+      "date": "2026-10-21",
+      "reference": "N°01-PCH-AO-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Consultation%20N%C2%B001-PCH-AO-2026.pdf",
+      "sourceId": "consultations"
+    },
+    {
+      "id": "AVIS%20ANNULATION%20CONSULTATION%20%20N%C2%B001-PCH-AO-2026.pdf",
+      "title": "AVIS D'ANNULATION CONSULTATION N°01-PCH-AO-2026",
+      "date": "2026-10-21",
+      "reference": "N°01-PCH-AO-2026",
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/AVIS%20ANNULATION%20CONSULTATION%20%20N%C2%B001-PCH-AO-2026.pdf",
+      "sourceId": "consultations"
+    },
     {
       "id": "Avis%20d%27Appel%20d%27Offres%20National%20Ouvert%20avec%20exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B016-2026.pdf",
       "title": "AVIS D'APPEL D'OFFRES NATIONAL OUVERT AVEC",
@@ -4017,6 +4035,24 @@
       }
     ],
     "consultations": [
+      {
+        "id": "Avis%20de%20Consultation%20N%C2%B001-PCH-AO-2026.pdf",
+        "title": "AVIS DE CONSULTATION N°01-PCH-AO-2026",
+        "date": "2026-10-21",
+        "reference": "N°01-PCH-AO-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/Avis%20de%20Consultation%20N%C2%B001-PCH-AO-2026.pdf",
+        "sourceId": "consultations"
+      },
+      {
+        "id": "AVIS%20ANNULATION%20CONSULTATION%20%20N%C2%B001-PCH-AO-2026.pdf",
+        "title": "AVIS D'ANNULATION CONSULTATION N°01-PCH-AO-2026",
+        "date": "2026-10-21",
+        "reference": "N°01-PCH-AO-2026",
+        "produit": null,
+        "url": "https://www.pch.dz/sites/default/files/AVIS%20ANNULATION%20CONSULTATION%20%20N%C2%B001-PCH-AO-2026.pdf",
+        "sourceId": "consultations"
+      },
       {
         "id": "Avis%20de%20consultaton%20N%C2%B001-PCH-AO-2026.pdf",
         "title": "AVIS DE CONSULTATON N°01-PCH-AO-2026",

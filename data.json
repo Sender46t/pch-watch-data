@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-24T10:06:09.740Z",
-  "freshCount": 0,
+  "scrapedAt": "2026-10-24T15:11:50.267Z",
+  "freshCount": 10,
   "totalCount": 269,
   "allItems": [
     {
@@ -76,15 +76,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "Avis%20%20d%27Appel%20d%27Offres%20National%20Ouvert%20Avec%20Exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B005-2026_0.pdf",
-      "title": "AVIS D'APPEL D'OFFRES NATIONAL OUVERT",
-      "date": "2026-10-12",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20%20d%27Appel%20d%27Offres%20National%20Ouvert%20Avec%20Exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B005-2026_0.pdf",
-      "sourceId": "appel-doffres"
-    },
-    {
       "id": "Avis%20d%27Infructuosit%C3%A9%20de%20l%27appel%20d%27offres%20national%20ouvert%20Avec%20Exigence%20de%20capacit%C3%A9s%20Minimales%20N%C2%B010-2026.pdf",
       "title": "AVIS D'INFRUC",
       "date": "2026-10-12",
@@ -92,6 +83,15 @@
       "produit": null,
       "url": "https://www.pch.dz/sites/default/files/Avis%20d%27Infructuosit%C3%A9%20de%20l%27appel%20d%27offres%20national%20ouvert%20Avec%20Exigence%20de%20capacit%C3%A9s%20Minimales%20N%C2%B010-2026.pdf",
       "sourceId": "infructuosite"
+    },
+    {
+      "id": "Avis%20%20d%27Appel%20d%27Offres%20National%20Ouvert%20Avec%20Exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B005-2026_0.pdf",
+      "title": "AVIS D'APPEL D'OFFRES NATIONAL OUVERT",
+      "date": "2026-10-12",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20%20d%27Appel%20d%27Offres%20National%20Ouvert%20Avec%20Exigence%20de%20capacit%C3%A9s%20minimales%20N%C2%B005-2026_0.pdf",
+      "sourceId": "appel-doffres"
     },
     {
       "id": "Avis%20d%27attribution%20apr%C3%A8s%20recours%20de%20l%27appel%20d%27offre%20National%20et%20International%20Ouvre%20N%C2%B011-2026.pdf",
@@ -283,15 +283,6 @@
       "sourceId": "consultations"
     },
     {
-      "id": "Avis%20de%20prorogation%20de%20l%27appel%20d%27offres%206-2026.pdf",
-      "title": "AVIS DE PROROGATION DU DÉLAI DE PRÉPARATION DES OFFRES DE L'APPEL D'OFFRES NATIONAL OUVERT AVEC EXI",
-      "date": "2026-08-05",
-      "reference": null,
-      "produit": null,
-      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20de%20l%27appel%20d%27offres%206-2026.pdf",
-      "sourceId": "appel-doffres"
-    },
-    {
       "id": "AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B012-MED-2026%20-THIOPENTAL%20SODIQUE%20INJ%20500MG%20%26%201G.pdf",
       "title": "AVIS D&#039;INFRUCTUOSITE - CONSULTATION N°12-MED-2026 -THIOPENTAL SODIQUE INJ 500MG &AMP; 1G.PDF",
       "date": "2026-08-05",
@@ -299,6 +290,15 @@
       "produit": "CONSULTATION N12-MED-2026 -THIOPENTAL SODIQUE INJ 500MG &AMP; 1G.PDF",
       "url": "https://www.pch.dz/sites/default/files/AVIS%20D%27INFRUCTUOSITE%20-%20CONSULTATION%20N%C2%B012-MED-2026%20-THIOPENTAL%20SODIQUE%20INJ%20500MG%20%26%201G.pdf",
       "sourceId": "infructuosite"
+    },
+    {
+      "id": "Avis%20de%20prorogation%20de%20l%27appel%20d%27offres%206-2026.pdf",
+      "title": "AVIS DE PROROGATION DU DÉLAI DE PRÉPARATION DES OFFRES DE L'APPEL D'OFFRES NATIONAL OUVERT AVEC EXI",
+      "date": "2026-08-05",
+      "reference": null,
+      "produit": null,
+      "url": "https://www.pch.dz/sites/default/files/Avis%20de%20prorogation%20de%20l%27appel%20d%27offres%206-2026.pdf",
+      "sourceId": "appel-doffres"
     },
     {
       "id": "scan%20prorogation%20du%20d%C3%A9lai%2006%202026.pdf",
